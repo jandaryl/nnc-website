@@ -9,10 +9,12 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
 
+        <!-- Custom CSS -->
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -63,7 +65,7 @@
             }
         </style>
     </head>
-    <body>
+    <body class="bg-blue">
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">

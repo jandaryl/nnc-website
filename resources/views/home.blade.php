@@ -9,6 +9,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
   <body>
+    <!-- Start Header -->
     <section class="hero is-success">
       <div class="hero-body">
         <div class="level">
@@ -22,6 +23,20 @@
           </div>
         </div>
       </div>
+      <div class="hero-foot">
+        <nav class="tabs is-boxed is-fullwidth is-size-5 has-text-weight-normal">
+          <div class="container">
+            <ul>
+              <li class="is-active"><a>HOME</a></li>
+              <li><a>ABOUT US</a></li>
+              <li><a>SERVICES</a></li>
+              <li><a>PRODUCTS</a></li>
+              <li><a>CONTACT US</a></li>
+            </ul>
+          </div>
+        </nav>
+      </div>
     </section>
+    <!-- End Header -->
   </body>
 </html>

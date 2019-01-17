@@ -38,5 +38,43 @@
       </div>
     </section>
     <!-- End Header -->
+    <!-- Start Footer -->
+    <div class="flex mt-4">
+      <div class="w-1/5 bg-grey h-64">
+        <div class="inline-flex flex-col">
+          <div class="ml-16 mt-8">
+              <p>Our Location :</p>
+          </div>
+          <div class="ml-16 mt-4">
+              <p>Google Map</p>
+          </div>
+        </div>
+      </div>
+      <div class="w-3/5 bg-grey-light h-64">
+          <div class="inline-flex flex-col">
+              <p class="ml-20 py-1 mt-12">HOME</p>
+              <p class="ml-20 py-1">ABOUT US</p>
+              <p class="ml-20 py-1">SERVICES</p>
+              <p class="ml-20 py-1">PRODUCTS</p>
+              <p class="ml-20 py-1">CONTACT US</p>
+          </div>
+      </div>
+      <div class="inline-flex items-center justify-center w-1/5 bg-grey h-64">
+            <div class="inline-flex flex-col">
+              <div class="ml-10">
+                  <p>Contact Us :</p>
+              </div>
+              <div class="inline-flex flex-row">
+                  <p class="mr-1">facebook</p>
+                  <p class="mr-1">gmail</p>
+                  <p>twitter</p>
+              </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="text-grey-dark text-center text-sm mb-4">
+        <p>Copyright &copy; 2019 North Negros College</p>
+    </div>
   </body>
 </html>

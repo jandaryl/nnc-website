@@ -6194,6 +6194,10 @@ table {
  * @import "utilities/skew-transforms";
  */
 
+.test-css {
+  color: #fff;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;

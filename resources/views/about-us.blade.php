@@ -7,7 +7,6 @@
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
   <body class="bg-grey-lightest">
@@ -29,8 +28,8 @@
         <nav class="tabs is-boxed is-fullwidth is-size-5 has-text-weight-normal">
           <div class="container">
             <ul>
-              <li class="is-active"><a href="{{ route('home') }}">HOME</a></li>
-              <li><a href="{{ route('about-us') }}">ABOUT US</a></li>
+              <li><a href="{{ route('home') }}">HOME</a></li>
+              <li class="is-active"><a href="{{ route('about-us') }}">ABOUT US</a></li>
               <li><a>SERVICES</a></li>
               <li><a>PRODUCTS</a></li>
               <li><a>CONTACT US</a></li>
@@ -40,17 +39,7 @@
       </div>
     </section>
     <!-- End Header -->
-    <!-- Start Content -->
-    <div class="nnc-showcase container">
-        <section class="hero">
-            <figure class="image">
-                <img src="https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
-            </figure>
-        </section>
-        <div>your content</div>
-        <div>your content</div>
-    </div>
-    <!-- End Content -->
+    Hello About Us!
     <!-- Start Footer -->
     <hr>
     <div class="flex">
@@ -94,15 +83,5 @@
     <div class="text-grey-dark text-center text-sm">
         <p>Copyright &copy; 2019 North Negros College</p>
     </div>
-    <!-- End Footer -->
-    <!-- Scripts -->
-    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function(){
-          $('.nnc-showcase').slick();
-        });
-    </script>
   </body>
 </html>

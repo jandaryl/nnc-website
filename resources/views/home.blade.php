@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
-  <body>
+  <body class="bg-grey-lightest">
     <!-- Start Header -->
     <section class="hero is-success">
       <div class="hero-body">
@@ -39,41 +39,46 @@
     </section>
     <!-- End Header -->
     <!-- Start Footer -->
-    <div class="flex mt-4">
-      <div class="w-1/5 bg-grey h-64">
+    <hr>
+    <div class="flex">
+      <div class="w-1/5 h-64">
         <div class="inline-flex flex-col">
-          <div class="ml-16 mt-8">
+          <div class="ml-32 px-10 mt-8">
               <p>Our Location :</p>
           </div>
           <div class="ml-16 mt-4">
-              <p>Google Map</p>
+                <iframe src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=North%20Negros%20College%2C%20Cadiz%20City%2C%20Negros%20Occidental%20+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"
+                height="120" frameborder="0" allowfullscreen>
+                </iframe>
+          </div>
+          <div class="ml-16 text-sm text-center">
+              <p>Cor. Villena - Lopes Jaena Sts., Cadiz City, 6121 Negros Occidental, Visayas, Philippines</p>
           </div>
         </div>
       </div>
-      <div class="w-3/5 bg-grey-light h-64">
+      <div class="w-3/5 h-64">
           <div class="inline-flex flex-col">
-              <p class="ml-20 py-1 mt-12">HOME</p>
-              <p class="ml-20 py-1">ABOUT US</p>
-              <p class="ml-20 py-1">SERVICES</p>
-              <p class="ml-20 py-1">PRODUCTS</p>
-              <p class="ml-20 py-1">CONTACT US</p>
+              <p class="ml-32 pl-12 py-1 mt-12">HOME</p>
+              <p class="ml-32 pl-12 py-1">ABOUT US</p>
+              <p class="ml-32 pl-12 py-1">SERVICES</p>
+              <p class="ml-32 pl-12 py-1">PRODUCTS</p>
+              <p class="ml-32 pl-12 py-1">CONTACT US</p>
           </div>
       </div>
-      <div class="inline-flex items-center justify-center w-1/5 bg-grey h-64">
+      <div class="inline-flex items-center justify-start w-1/5 h-64">
             <div class="inline-flex flex-col">
-              <div class="ml-10">
-                  <p>Contact Us :</p>
+              <div class="ml-4 mb-2">
+                  <p>Follow Us :</p>
               </div>
               <div class="inline-flex flex-row">
-                  <p class="mr-1">facebook</p>
-                  <p class="mr-1">gmail</p>
-                  <p>twitter</p>
+                  <div class="rounded-full h-8 w-8 flex items-center justify-center mr-1"><i class="fab fa-facebook-f"></i></div>
+                  <div class="rounded-full h-8 w-8 flex items-center justify-center mr-1"><i class="fab fa-twitter"></i></div>
+                  <div class="rounded-full h-8 w-8 flex items-center justify-center mr-1"><i class="fab fa-instagram"></i></div>
               </div>
         </div>
       </div>
     </div>
-
-    <div class="text-grey-dark text-center text-sm mb-4">
+    <div class="text-grey-dark text-center text-sm">
         <p>Copyright &copy; 2019 North Negros College</p>
     </div>
   </body>

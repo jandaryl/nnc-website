@@ -195,11 +195,11 @@ module.exports = {
 
   fonts: {
     'sans': [
+      'Roboto',
       'system-ui',
       'BlinkMacSystemFont',
       '-apple-system',
       'Segoe UI',
-      'Roboto',
       'Oxygen',
       'Ubuntu',
       'Cantarell',
@@ -221,12 +221,12 @@ module.exports = {
       'serif',
     ],
     'mono': [
+      'monospace',
       'Menlo',
       'Monaco',
       'Consolas',
       'Liberation Mono',
       'Courier New',
-      'monospace',
     ],
   },
 
@@ -261,6 +261,8 @@ module.exports = {
     '3xl': '1.875rem',  // 30px
     '4xl': '2.25rem',   // 36px
     '5xl': '3rem',      // 48px
+    '10xl': '6rem',     // 96px
+    '20xl': '12rem',    // 192px
   },
 
 

@@ -2957,7 +2957,7 @@ table {
 }
 
 .font-sans {
-  font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Roboto, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
 .font-serif {
@@ -2965,7 +2965,7 @@ table {
 }
 
 .font-mono {
-  font-family: Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+  font-family: monospace, Menlo, Monaco, Consolas, Liberation Mono, Courier New;
 }
 
 .font-hairline {
@@ -5797,6 +5797,14 @@ table {
   font-size: 3rem;
 }
 
+.text-10xl {
+  font-size: 6rem;
+}
+
+.text-20xl {
+  font-size: 12rem;
+}
+
 .italic {
   font-style: italic;
 }
@@ -8561,7 +8569,7 @@ table {
   }
 
   .sm\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: Roboto, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .sm\:font-serif {
@@ -8569,7 +8577,7 @@ table {
   }
 
   .sm\:font-mono {
-    font-family: Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+    font-family: monospace, Menlo, Monaco, Consolas, Liberation Mono, Courier New;
   }
 
   .sm\:font-hairline {
@@ -11385,6 +11393,14 @@ table {
     font-size: 3rem;
   }
 
+  .sm\:text-10xl {
+    font-size: 6rem;
+  }
+
+  .sm\:text-20xl {
+    font-size: 12rem;
+  }
+
   .sm\:italic {
     font-style: italic;
   }
@@ -14135,7 +14151,7 @@ table {
   }
 
   .md\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: Roboto, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .md\:font-serif {
@@ -14143,7 +14159,7 @@ table {
   }
 
   .md\:font-mono {
-    font-family: Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+    font-family: monospace, Menlo, Monaco, Consolas, Liberation Mono, Courier New;
   }
 
   .md\:font-hairline {
@@ -16959,6 +16975,14 @@ table {
     font-size: 3rem;
   }
 
+  .md\:text-10xl {
+    font-size: 6rem;
+  }
+
+  .md\:text-20xl {
+    font-size: 12rem;
+  }
+
   .md\:italic {
     font-style: italic;
   }
@@ -19709,7 +19733,7 @@ table {
   }
 
   .lg\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: Roboto, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .lg\:font-serif {
@@ -19717,7 +19741,7 @@ table {
   }
 
   .lg\:font-mono {
-    font-family: Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+    font-family: monospace, Menlo, Monaco, Consolas, Liberation Mono, Courier New;
   }
 
   .lg\:font-hairline {
@@ -22533,6 +22557,14 @@ table {
     font-size: 3rem;
   }
 
+  .lg\:text-10xl {
+    font-size: 6rem;
+  }
+
+  .lg\:text-20xl {
+    font-size: 12rem;
+  }
+
   .lg\:italic {
     font-style: italic;
   }
@@ -25283,7 +25315,7 @@ table {
   }
 
   .xl\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: Roboto, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .xl\:font-serif {
@@ -25291,7 +25323,7 @@ table {
   }
 
   .xl\:font-mono {
-    font-family: Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+    font-family: monospace, Menlo, Monaco, Consolas, Liberation Mono, Courier New;
   }
 
   .xl\:font-hairline {
@@ -28105,6 +28137,14 @@ table {
 
   .xl\:text-5xl {
     font-size: 3rem;
+  }
+
+  .xl\:text-10xl {
+    font-size: 6rem;
+  }
+
+  .xl\:text-20xl {
+    font-size: 12rem;
   }
 
   .xl\:italic {

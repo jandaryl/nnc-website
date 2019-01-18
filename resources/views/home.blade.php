@@ -32,7 +32,7 @@
               <li class="is-active"><a href="{{ route('home') }}">HOME</a></li>
               <li><a href="{{ route('about-us') }}">ABOUT US</a></li>
               <li><a href="{{ route('services') }}">SERVICES</a></li>
-              <li><a>PRODUCTS</a></li>
+              <li><a href="{{ route('products') }}">PRODUCTS</a></li>
               <li><a href="{{ route('contact-us') }}">CONTACT US</a></li>
             </ul>
           </div>

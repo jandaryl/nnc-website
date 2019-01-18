@@ -3,10 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Services</title>
+    <title>Products</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
+    <link rel="stylesheet" type="text/css" href="/css/bulma-carousel.min.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
   <body class="bg-grey-lightest">
@@ -30,8 +31,8 @@
             <ul>
               <li><a href="{{ route('home') }}">HOME</a></li>
               <li><a href="{{ route('about-us') }}">ABOUT US</a></li>
-              <li class="is-active"><a href="{{ route('services') }}">SERVICES</a></li>
-              <li><a href="{{ route('products') }}">PRODUCTS</a></li>
+              <li><a href="{{ route('services') }}">SERVICES</a></li>
+              <li class="is-active"><a href="{{ route('products') }}">PRODUCTS</a></li>
               <li><a href="{{ route('contact-us') }}">CONTACT US</a></li>
             </ul>
           </div>
@@ -44,58 +45,64 @@
     <div class="flex flex-row container mx-auto h-auto bg-grey-lightest">
       <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-16 mb-8 ml-4">
         <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-          <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+          <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+          <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
           <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
               <i class="fas fa-eye fa-1x mr-2"></i>View
           </button>
         </div>
         </div>
         <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-16 mb-8 ml-4">
-            <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-              <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-              <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                  <i class="fas fa-eye fa-1x mr-2"></i>View
-              </button>
-            </div>
+        <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
+          <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+          <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
+          <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
+              <i class="fas fa-eye fa-1x mr-2"></i>View
+          </button>
+        </div>
         </div>
         <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-16 mb-8 ml-4">
-            <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-              <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-              <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                  <i class="fas fa-eye fa-1x mr-2"></i>View
-              </button>
-            </div>
+          <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
+            <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+            <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
+            <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
+                <i class="fas fa-eye fa-1x mr-2"></i>View
+            </button>
+          </div>
         </div>
     </div>
     <!-- End 1st Cards -->
-    <!-- Start 1st Cards -->
+    <!-- Start 2nd 3 Cards -->
     <div class="flex flex-row container mx-auto h-auto bg-grey-lightest">
       <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-8 mb-16 ml-4">
         <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-          <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+          <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+          <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
           <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
               <i class="fas fa-eye fa-1x mr-2"></i>View
           </button>
         </div>
         </div>
         <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-8 mb-16 ml-4">
-            <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-              <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-              <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                  <i class="fas fa-eye fa-1x mr-2"></i>View
-              </button>
-            </div>
+        <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
+          <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+          <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
+          <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
+              <i class="fas fa-eye fa-1x mr-2"></i>View
+          </button>
+        </div>
         </div>
         <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-8 mb-16 ml-4">
-            <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-              <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-              <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                  <i class="fas fa-eye fa-1x mr-2"></i>View
-              </button>
-            </div>
+          <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
+            <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
+            <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
+            <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
+                <i class="fas fa-eye fa-1x mr-2"></i>View
+            </button>
+          </div>
         </div>
     </div>
-    <!-- End 1st Cards -->
+    <!-- End 2nd Cards -->
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter" id="footer">
@@ -146,5 +153,10 @@
         <p>Copyright &copy; 2019 North Negros College</p>
     </div>
     <!-- End Footer -->
+    <!-- Scripts -->
+    <script type="text/javascript" src="/js/bulma-carousel.min.js"></script>
+    <script>
+      var carousels = bulmaCarousel.attach(); // carousels now contains an array of all Carousel instances.
+    </script>
   </body>
 </html>

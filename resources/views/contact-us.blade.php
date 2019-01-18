@@ -30,10 +30,10 @@
           <div class="container">
             <ul>
               <li><a href="{{ route('home') }}">HOME</a></li>
-              <li class="is-active"><a href="{{ route('about-us') }}">ABOUT US</a></li>
+              <li><a href="{{ route('about-us') }}">ABOUT US</a></li>
               <li><a>SERVICES</a></li>
               <li><a>PRODUCTS</a></li>
-              <li><a>CONTACT US</a></li>
+              <li class="is-active"><a href="{{ route('contact-us') }}">CONTACT US</a></li>
             </ul>
           </div>
         </nav>
@@ -41,7 +41,7 @@
     </section>
     <!-- End Header -->
     <!-- Start Main Content -->
-
+      Hello Contact Us!
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter">

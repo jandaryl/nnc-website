@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Home</title>
+    <title>Contact Us</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
@@ -29,8 +29,8 @@
         <nav class="tabs is-boxed is-fullwidth is-size-5 has-text-weight-normal">
           <div class="container">
             <ul>
-              <li class="is-active"><a href="{{ route('home') }}">HOME</a></li>
-              <li><a href="{{ route('about-us') }}">ABOUT US</a></li>
+              <li><a href="{{ route('home') }}">HOME</a></li>
+              <li class="is-active"><a href="{{ route('about-us') }}">ABOUT US</a></li>
               <li><a>SERVICES</a></li>
               <li><a>PRODUCTS</a></li>
               <li><a>CONTACT US</a></li>
@@ -41,75 +41,7 @@
     </section>
     <!-- End Header -->
     <!-- Start Main Content -->
-    <!-- Start Carousel -->
-    <section class="hero is-medium has-carousel">
-      <div class="hero-carousel carousel-animated carousel-animate-fade">
-        <div class='carousel-container'>
-          <div class='carousel-item has-background is-active'>
-            <img class="is-background" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="" />
-          </div>
-          <div class='carousel-item has-background'>
-            <img class="is-background" src="https://wikiki.github.io/images/singer.jpg" alt="" />
-          </div>
-          <div class='carousel-item has-background'>
-            <img class="is-background" src="https://wikiki.github.io/images/sushi.jpg" alt="" />
-          </div>
-          <div class='carousel-item has-background'>
-            <img class="is-background" src="https://wikiki.github.io/images/life.jpg" alt="" />
-          </div>
-        </div>
-        <div class="carousel-navigation is-overlay">
-          <div class="carousel-nav-left">
-            <i class="fa fa-chevron-left" aria-hidden="true"></i>
-          </div>
-          <div class="carousel-nav-right">
-            <i class="fa fa-chevron-right" aria-hidden="true"></i>
-          </div>
-        </div>
-      </div>
-      <div class="hero-body has-text-centered">
-          <div class="columns is-mobile is-centered">
-            <h1>Welcome to North Negros</h1>
-          </div>
-      </div>
-    </section>
-    <!-- End Carousel -->
-    <!-- Start Mission and Vision -->
-    <div class="flex flex-row container mx-auto justify-center h-48">
-        <div class="bg-grey-lightest h-24 max-w-lg mr-8 text-center rounded-full shadow-lg mt-12">
-          <h1 class="text-2xl text-bold text-mono uppercase">Mission</h1>
-          <p class="text-1xl text-sans tracking-tight">Our Mission to produce socially conscientious, responsible, highly skilled and globally competitive graduates.
-          </p>
-        </div>
-        <div class="bg-grey-lightest h-24 max-w-lg text-center rounded-full shadow-lg mt-12">
-          <h1 class="text-2xl text-bold text-mono uppercase">Vision</h1>
-          <p class="text-1xl text-sans tracking-tight">North Negros College is the foremost provider of holistic and God-centered quality education committed to contribute to the socio-economic development of Negros Island.
-          </p>
-        </div>
-    </div>
-    <!-- End Mission and Vision -->
-    <!-- Start Programs Offered -->
-    <div class="flex flex-col container mx-auto bg-grey-lightest">
-      <h2 class="mb-2 text-3xl font-sans font-medium uppercase mt-8">Programs Offered :</h2>
-      <div class="inline-flex flex-row justify-center mb-32">
-        <div class="h-48 w-full mr-12 text-center text-2xl shadow-lg rounded-lg">
-          <div class="ml-32 h-20 w-24 mt-8 mb-2 mr-2"><i class="fas fa-laptop-code fa-2x"></i>
-          </div>
-          Bachelor of Science in Computer Science
-          </div>
-        <div class="h-48 w-full mr-12 text-center text-2xl shadow-lg rounded-lg">
-          <div class="ml-32 h-20 w-24 mt-8 mb-2 mr-2"><i class="fas fa-utensils fa-2x"></i>
-          </div>
-          Bachelor of Hotel Restaurant Management
-        </div>
-        <div class="h-48 w-full mr-12 text-center text-2xl shadow-lg rounded-lg">
-          <div class="ml-32 h-20 w-24 mt-8 mb-2 mr-2"><i class="fas fa-briefcase fa-2x"></i>
-          </div>
-          Bachelor of Business Administration
-        </div>
-      </div>
-    </div>
-    <!-- End Programs Offered -->
+
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter">
@@ -154,10 +86,5 @@
         <p>Copyright &copy; 2019 North Negros College</p>
     </div>
     <!-- End Footer -->
-    <!-- Scripts -->
-    <script type="text/javascript" src="/js/bulma-carousel.min.js"></script>
-    <script>
-      var carousels = bulmaCarousel.attach(); // carousels now contains an array of all Carousel instances.
-    </script>
   </body>
 </html>

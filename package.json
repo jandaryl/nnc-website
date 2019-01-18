@@ -26,6 +26,7 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "bulma": "^0.7.2"
+        "bulma": "^0.7.2",
+        "bulma-extensions": "^4.0.1"
     }
 }

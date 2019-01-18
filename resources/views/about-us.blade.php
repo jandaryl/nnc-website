@@ -87,11 +87,11 @@
       </div>
       <div class="w-3/5 h-64">
           <div class="inline-flex flex-col">
-              <p class="ml-32 pl-12 py-1 mt-12">HOME</p>
-              <p class="ml-32 pl-12 py-1">ABOUT US</p>
-              <p class="ml-32 pl-12 py-1">SERVICES</p>
-              <p class="ml-32 pl-12 py-1">PRODUCTS</p>
-              <p class="ml-32 pl-12 py-1">CONTACT US</p>
+            <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark" href="{{ route('home') }}">HOME</a>
+            <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-1" href="{{ route('about-us') }}">ABOUT US</a>
+            <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-1" href="{{ route('home') }}">SERVICES</a>
+            <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-1" href="{{ route('home') }}">PRODUCTS</a>
+            <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-1" href="{{ route('home') }}">CONTACT US</a>
           </div>
       </div>
       <div class="inline-flex items-center justify-start w-1/5 h-64">

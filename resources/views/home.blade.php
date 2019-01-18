@@ -30,10 +30,10 @@
           <div class="container">
             <ul>
               <li class="is-active"><a href="{{ route('home') }}">HOME</a></li>
-              <li><a href="#about-us">ABOUT US</a></li>
-              <li><a>SERVICES</a></li>
+              <li><a href="{{ route('about-us') }}">ABOUT US</a></li>
+              <li><a href="{{ route('services') }}">SERVICES</a></li>
               <li><a>PRODUCTS</a></li>
-              <li><a href="#footer">CONTACT US</a></li>
+              <li><a href="{{ route('contact-us') }}">CONTACT US</a></li>
             </ul>
           </div>
         </nav>
@@ -135,7 +135,7 @@
     <!-- End Programs Offered -->
     <!-- End Main Content -->
     <!-- Start Footer -->
-    <div class="flex bg-grey-lighter" id="footer">
+    <div class="flex bg-grey-lighter" id="contact-us">
       <div class="w-1/5 h-auto">
         <div class="inline-flex flex-col">
           <div class="ml-32 px-12 mt-8 text-md">

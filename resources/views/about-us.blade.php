@@ -7,6 +7,7 @@
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
+    <link rel="stylesheet" type="text/css" href="/css/bulma-carousel.min.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
   <body class="bg-grey-lightest">
@@ -39,13 +40,39 @@
       </div>
     </section>
     <!-- End Header -->
-    Hello About Us!
+    <!-- Start Main Content -->
+        <div class="flex flex-row container mx-auto h-auto w-auto">
+          <div class="bg-grey-lightest h-auto max-w-lg text-center rounded-lg shadow-md mt-8 mr-8 mb-8">
+            <h1 class="text-2xl text-bold text-mono uppercase">North Negros College History</h1>
+            <p class="text-1xl text-sans tracking-tight text-left mt-4 p-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.lorem</p>
+          </div>
+          <div class="inline-flex flex-col items-center">
+            <div class="bg-grey-lightest h-auto max-w-sm text-center rounded-lg shadow-md mt-8 mr-8 mb-4">
+              <h1 class="text-2xl text-bold text-mono uppercase">Mission</h1>
+              <p class="text-1xl text-sans tracking-tight text-left mt-2 p-4">Our Mission to produce socially conscientious, responsible, highly skilled and globally competitive graduates.</p>
+            </div>
+            <div class="bg-grey-lightest h-auto max-w-sm text-center rounded-lg shadow-md mt-2 mr-8 mb-8">
+              <h1 class="text-2xl text-bold text-mono uppercase">Vision</h1>
+              <p class="text-1xl text-sans tracking-tight text-left mt-2 p-4">North Negros College is the foremost provider of holistic and God-centered quality education committed to contribute to the socio-economic development of Negros Island.</p>
+            </div>
+          </div>
+        </div>
+    <!-- End Main Content -->
     <!-- Start Footer -->
-    <hr>
-    <div class="flex">
+    <div class="flex bg-grey-lighter">
       <div class="w-1/5 h-64">
         <div class="inline-flex flex-col">
-          <div class="ml-32 px-10 mt-8">
+          <div class="ml-32 px-10 mt-2">
               <p>Our Location :</p>
           </div>
           <div class="ml-16 mt-4">
@@ -80,8 +107,9 @@
         </div>
       </div>
     </div>
-    <div class="text-grey-dark text-center text-sm">
+    <div class="bg-grey-light  text-grey-darker text-center text-sm text-semibold">
         <p>Copyright &copy; 2019 North Negros College</p>
     </div>
+    <!-- End Footer -->
   </body>
 </html>

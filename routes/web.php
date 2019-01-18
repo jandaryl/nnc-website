@@ -14,9 +14,15 @@
 Route::get('/', function () {
     return view('home');
 })->name('home');
-Route::get('/about-us', function () {
+Route::get('/#about-us', function () {
     return view('about-us');
 })->name('about-us');
-Route::get('/contact-us', function () {
+Route::get('/services', function () {
+    return view('services');
+})->name('services');
+Route::get('/products', function () {
+    return view('products');
+})->name('products');
+Route::get('/#contact-us', function () {
     return view('contact-us');
 })->name('contact-us');

@@ -67,10 +67,8 @@
           </div>
         </div>
       </div>
-      <div class="hero-body has-text-centered">
-          <div class="columns is-mobile is-centered">
-            <h1>Welcome to North Negros</h1>
-          </div>
+      <div class="hero-body">
+          <!-- No Content!-->
       </div>
     </section>
     <!-- End Carousel -->

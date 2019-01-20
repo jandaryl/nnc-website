@@ -101,6 +101,14 @@
               </p>
         </div>
       </div>
+        <div class="h-auto w-auto mr-4 ml-4 mb-4">
+          <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-8">
+              <h1 class="text-2xl text-bold font-mono pt-2">Contact Us</h1>
+              <p class="text-md font-mono pl-4 pr-4 pt-4 tracking-tight text-left">Address : Cor. Villena - Lopes Jaena Sts., Cadiz City, 6121 Negros Occidental 6121</p>
+              <p class="text-md font-mono pl-4 pr-4 pt-4 tracking-tight text-left">Tel. Nos. : xxx-xxxx | xxx-xxxx</p>
+              <p class="text-md font-mono pl-4 pr-4 pt-4 pb-4 tracking-tight text-left">Email : example@gmail.com</p>
+          </div>
+        </div>
     </div>
     <!-- End Product Info -->
     <!-- End Main Content -->

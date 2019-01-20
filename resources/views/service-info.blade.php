@@ -74,7 +74,7 @@
               </p>
             </div>
         </div>
-        <div class="inline-flex flex-row items-center h-auto w-auto mb-4">
+        <div class="inline-flex flex-row items-center h-auto w-auto">
           <div class="h-auto w-64 m-4 rounded-lg shadow-lg -mt-2">
             <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
               <div class='carousel-container'>
@@ -111,9 +111,14 @@
               </div>
           </div>
         </div>
-  <!--       <div class="h-auto w-auto m-4">
-          <div class="h-12 w-32 bg-grey-light ml-4 mr-4"></div>
-        </div> -->
+        <div class="h-auto w-auto mr-4 ml-4 mb-4">
+            <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-8">
+                <h1 class="text-2xl text-bold font-mono pt-2">Contact Us</h1>
+                <p class="text-md font-mono pl-4 pr-4 pt-4 tracking-tight text-left">Address : Cor. Villena - Lopes Jaena Sts., Cadiz City, 6121 Negros Occidental 6121</p>
+                <p class="text-md font-mono pl-4 pr-4 pt-4 tracking-tight text-left">Tel. Nos. : xxx-xxxx | xxx-xxxx</p>
+                <p class="text-md font-mono pl-4 pr-4 pt-4 pb-4 tracking-tight text-left">Email : example@gmail.com</p>
+            </div>
+        </div>
       </div>
     <!-- End Service Info -->
     <!-- End Main Content -->

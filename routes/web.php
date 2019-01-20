@@ -26,6 +26,9 @@ Route::get('/service-info', function () {
 Route::get('/products', function () {
     return view('products');
 })->name('products');
+Route::get('/product-info', function () {
+    return view('product-info');
+})->name('product-info');
 Route::get('/#contact-us', function () {
     return view('contact-us');
 })->name('contact-us');

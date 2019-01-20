@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Products</title>
+    <title>Product Information</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma-carousel.min.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
-  <body class="bg-grey-lightest">
+  <body class="bg-white">
     <!-- Start Header -->
-    <section class="hero is-success">
+    <section class="hero is-success mb-12">
       <div class="hero-body">
         <div class="level">
           <div class="level-item">
@@ -41,59 +41,71 @@
     </section>
     <!-- End Header -->
     <!-- Start Main Content -->
-    <!-- Start Product Cards -->
-    <div class="flex flex-col container mx-auto">
-      <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
-        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6">Everyday Lechon</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/life.jpg" alt="Everyday Lechon Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i><a class="text-white" href="{{ route('product-info') }}">See</a>
-          </button>
-        </div>
-        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6">Gelato De Naction</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
-        </div>
-        <div class="inline-flex flex-col items-center h-auto w-64 mt-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4">Theophilia Flowerets Farm</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="Theophilia Flowerets Farm Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
-        </div>
+    <!-- Start Product Info -->
+    <div class="flex flex-col items-center container mx-auto h-auto w-64 bg-grey-lighter rounded-none shadow-md">
+      <div class="inline-flex flex-row h-auto w-auto">
+          <img class="h-48 w-48 rounded-full mt-8" src="https://i.imgur.com/clby8dV.jpg" alt="Everyday Lechon Logo">
+          <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-8 mr-8 mt-24 mb-4 text-center font-mono font-medium text-3xl">
+            <p class="pt-2 pl-8 pr-8 pt-4">Everyday Lechon</p>
+          </div>
       </div>
-      <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
-        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6">Everyday Lechon</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/life.jpg" alt="Everyday Lechon Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
+      <div class="inline-flex flex-row h-auto w-auto">
+        <div class="h-auto w-1/3 mr-8 mt-8 mb-4 ml-8 rounded-lg shadow-lg">
+          <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
+            <div class='carousel-container'>
+              <div class='carousel-item has-background is-active'>
+                <img class="is-background" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="" width="640" height="310" />
+              </div>
+              <div class='carousel-item has-background'>
+                <img class="is-background" src="https://wikiki.github.io/images/singer.jpg" alt="" width="640" height="310" />
+              </div>
+              <div class='carousel-item has-background'>
+                <img class="is-background" src="https://wikiki.github.io/images/sushi.jpg" alt="" width="640" height="310" />
+              </div>
+              <div class='carousel-item has-background'>
+                <img class="is-background" src="https://wikiki.github.io/images/life.jpg" alt="" width="640" height="310" />
+              </div>
+            </div>
+            <div class="carousel-navigation is-centered">
+              <div class="carousel-nav-left">
+                <i class="fa fa-chevron-left" aria-hidden="true"></i>
+              </div>
+              <div class="carousel-nav-right">
+                <i class="fa fa-chevron-right" aria-hidden="true"></i>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6">Gelato De Naction</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
-        </div>
-        <div class="inline-flex flex-col items-center h-auto w-64 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4">Theophilia Flowerets Farm</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="Theophilia Flowerets Farm Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
+        <div class="inline-flex flex-col h-auto w-auto mt-8">
+            <div class="bg-white h-auto max-auto mr-8 text-center rounded-lg shadow-lg mb-8">
+              <h1 class="text-2xl text-bold font-mono pt-4">Problem</h1>
+              <p class="text-md font-mono p-4 tracking-tight">Sources of financing.
+              </p>
+            </div>
+            <div class="bg-white h-auto max-auto text-center rounded-lg shadow-lg mb-8 mr-8">
+              <h1 class="text-2xl text-bold font-mono pt-4">Objectives</h1>
+              <p class="text-md font-mono p-4 tracking-tight">To achieve competitiveness and attain the desired outcome in both product and services.
+              </p>
+            </div>
+      </div>
+      </div>
+      <div class="inline-flex flex-row h-auto w-auto">
+         <div class="bg-white h-auto max-w-lg mr-8 text-center rounded-lg shadow-lg mb-12 ml-8 mt-4">
+              <h1 class="text-2xl text-bold font-mono">Mission</h1>
+              <p class="text-md font-mono p-2 tracking-tight">Everyday’s Lechon provides the quality food products and highly satisfying services to meet and even exceed the expectation of valued customers.
+              </p>
+         </div>
+        <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-12 mr-8 mt-4">
+              <h1 class="text-2xl text-bold font-mono">Vision</h1>
+              <p class="text-md font-mono p-2 tracking-tight">-Everyday’s Lechon shall be known as the entire Negros Island committed to provide standardized products and services.
+              </p>
         </div>
       </div>
     </div>
-    <!-- End Product Cards -->
+    <!-- End Product Info -->
     <!-- End Main Content -->
     <!-- Start Footer -->
-    <div class="flex bg-grey-lighter" id="footer">
+    <div class="flex bg-grey-lighter mt-12" id="footer">
       <div class="w-1/5 h-auto">
         <div class="inline-flex flex-col">
           <div class="ml-32 px-12 mt-8 text-md">

@@ -40,62 +40,49 @@
     </section>
     <!-- End Header -->
     <!-- Start Main Content -->
-    <!-- Start 1st 3 Cards -->
-    <div class="flex flex-row container mx-auto h-auto bg-grey-lightest">
-      <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-16 mb-8 ml-4">
-        <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-          <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-          <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-              <i class="fas fa-eye fa-1x mr-2"></i>View
-          </button>
-        </div>
-        </div>
-        <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-16 mb-8 ml-4">
-            <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-              <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-              <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                  <i class="fas fa-eye fa-1x mr-2"></i>View
-              </button>
+    <!-- Start Service Cards -->
+    <div class="flex flex-col container mx-auto h-auto">
+        <div class="inline-flex flex-row justify-center text-center">
+            <div class="h-auto w-auto bg-grey-lightest mr-12 mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
+                <p class="p-8 mb-0">Nexus Study Lounge Service</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>View
+                </button>
+            </div>
+            <div class="h-auto w-auto bg-grey-lightest mr-12 mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="On Call Maintenance and Repair Service Logo">
+                <p class="p-8 mb-0">On Call Maintenance and Repair Service</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>View
+                </button>
+            </div>
+             <div class="h-auto w-auto bg-grey-lightest mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Children's Private Hospital Logo">
+                <p class="p-8 mb-0">Children's Private Hospital</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>View
+                </button>
             </div>
         </div>
-        <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-16 mb-8 ml-4">
-            <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-              <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-              <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                  <i class="fas fa-eye fa-1x mr-2"></i>View
-              </button>
+        <div class="inline-flex flex-row justify-center">
+            <div class="h-auto w-auto bg-grey-lightest mr-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Coin Laundry Shop Logo">
+                <p class="p-8 mb-0">Coin Laundry Shop</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>View
+                </button>
             </div>
-        </div>
-    </div>
-    <!-- End 1st Cards -->
-    <!-- Start 1st Cards -->
-    <div class="flex flex-row container mx-auto h-auto bg-grey-lightest">
-      <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-8 mb-16 ml-4">
-        <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-          <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-          <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-              <i class="fas fa-eye fa-1x mr-2"></i>View
-          </button>
-        </div>
-        </div>
-        <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-8 mb-16 ml-4">
-            <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-              <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-              <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                  <i class="fas fa-eye fa-1x mr-2"></i>View
-              </button>
-            </div>
-        </div>
-        <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-8 mb-16 ml-4">
-            <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-              <h1 class="text-grey-darker text-2xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-              <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                  <i class="fas fa-eye fa-1x mr-2"></i>View
-              </button>
+            <div class="h-auto w-auto bg-grey-lightest mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Universal Electronic Supply and Service Center Logo">
+                <p class="p-8 mb-0">Universal Electronic Supply and Service Center</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>View
+                </button>
             </div>
         </div>
     </div>
-    <!-- End 1st Cards -->
+    <!-- End Service Cards -->
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter" id="footer">

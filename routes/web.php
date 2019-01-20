@@ -23,6 +23,12 @@ Route::get('/services', function () {
 Route::get('/service-info', function () {
     return view('service-info');
 })->name('service-info');
+Route::get('/nexus-study-lounge-service', function () {
+    return view('nexus-study-lounge-service');
+})->name('nexus-study-lounge-service');
+Route::get('/on-call-maintenance-and-repair-service', function () {
+    return view('on-call-maintenance-and-repair-service');
+})->name('on-call-maintenance-and-repair-service');
 Route::get('/products', function () {
     return view('products');
 })->name('products');

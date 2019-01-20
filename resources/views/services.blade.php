@@ -47,14 +47,14 @@
                 <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
                 <p class="p-8 mb-0">Nexus Study Lounge Service</p>
                 <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i><a class="text-white" href="{{ route('service-info') }}">View</a>
+                    <i class="fas fa-eye fa-1x mr-2"></i><a class="text-white" href="{{ route('nexus-study-lounge-service') }}">View</a>
                 </button>
             </div>
             <div class="h-auto w-auto bg-grey-lightest mr-12 mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
                 <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="On Call Maintenance and Repair Service Logo">
                 <p class="p-8 mb-0">On Call Maintenance and Repair Service</p>
                 <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>View
+                    <i class="fas fa-eye fa-1x mr-2"></i><a class="text-white" href="{{ route('on-call-maintenance-and-repair-service') }}">View</a>
                 </button>
             </div>
              <div class="h-auto w-auto bg-grey-lightest mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">

@@ -92,12 +92,12 @@
       <div class="inline-flex flex-row h-auto w-auto">
          <div class="bg-white h-auto max-w-lg mr-8 text-center rounded-lg shadow-lg mb-12 ml-8 mt-4">
               <h1 class="text-2xl text-bold font-mono">Mission</h1>
-              <p class="text-md font-mono p-2 tracking-tight">Everyday’s Lechon provides the quality food products and highly satisfying services to meet and even exceed the expectation of valued customers.
+              <p class="text-md font-mono p-4 tracking-tight">Everyday’s Lechon provides the quality food products and highly satisfying services to meet and even exceed the expectation of valued customers.
               </p>
          </div>
         <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-12 mr-8 mt-4">
               <h1 class="text-2xl text-bold font-mono">Vision</h1>
-              <p class="text-md font-mono p-2 tracking-tight">-Everyday’s Lechon shall be known as the entire Negros Island committed to provide standardized products and services.
+              <p class="text-md font-mono p-4 tracking-tight">-Everyday’s Lechon shall be known as the entire Negros Island committed to provide standardized products and services.
               </p>
         </div>
       </div>

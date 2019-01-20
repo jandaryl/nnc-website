@@ -76,36 +76,21 @@
     <div class="container mx-auto bg-grey-lighter rounded-lg shadow-md" id="about-us">
         <div class="flex container mx-auto justify-center h-auto mb-12 mt-4">
           <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mt-12 mb-12">
-                <h1 class="text-2xl text-bold text-mono uppercase">History</h1>
-                <p class="text-1xl text-sans tracking-tight text-left mt-1 p-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <h1 class="text-2xl text-bold text-mono uppercase pt-4">History</h1>
+                <p class="text-1xl text-sans tracking-tight text-left text-lg text-center p-12">North Negros College is co-educational and non-sectarian school, was established in 1979 as Owen Institute of Electronics by spouses Atty. Agustin Santillan Desuyo and Mrs. Fabiola Desuyo offering Technical and Vocational courses. In 1983, it was duly incorporated and registered with the Securities and Exchange Commission and known subsequently as Owen Institute of Electronics, Inc. in 1985, by virtue of amendments of its Articles of Incorporation, Owen Institute of Electronics, Inc. was renamed as North Negros College, Inc. which offered Bachelor Degree Courses.</p>
             </div>
         </div>
         <!-- End History -->
         <!-- Start Mission and Vision -->
         <div class="flex flex-row container mx-auto justify-center h-48">
             <div class="bg-white h-32 max-auto mr-8 text-center rounded-full shadow-lg ml-8">
-              <h1 class="text-2xl text-bold text-mono uppercase">Mission</h1>
-              <p class="text-1xl text-sans tracking-tight p-4">Our Mission to produce socially conscientious, responsible, highly skilled and globally competitive graduates.
+              <h1 class="text-2xl text-bold text-mono uppercase mb-1">Mission</h1>
+              <p class="text-lg text-sans tracking-tight">Our Mission to produce socially conscientious, responsible, highly skilled and globally competitive graduates.
               </p>
             </div>
             <div class="bg-white h-32 max-auto text-center rounded-full shadow-lg mr-8">
-              <h1 class="text-2xl text-bold text-mono uppercase">Vision</h1>
-              <p class="text-1xl text-sans tracking-tight p-4">North Negros College is the foremost provider of holistic and God-centered quality education committed to contribute to the socio-economic development of Negros Island.
+              <h1 class="text-2xl text-bold text-mono uppercase mb-1">Vision</h1>
+              <p class="text-lg text-sans tracking-tight pl-4 pr-4">North Negros College is the foremost provider of holistic and God-centered quality education committed to contribute to the socio-economic development of Negros Island.
               </p>
             </div>
         </div>

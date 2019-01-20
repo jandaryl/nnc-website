@@ -20,6 +20,9 @@ Route::get('/#about-us', function () {
 Route::get('/services', function () {
     return view('services');
 })->name('services');
+Route::get('/service-info', function () {
+    return view('service-info');
+})->name('service-info');
 Route::get('/products', function () {
     return view('products');
 })->name('products');

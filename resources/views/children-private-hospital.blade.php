@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>On Call Maintenance and Repair Service</title>
+    <title>Children's Private Hospital</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
@@ -47,31 +47,31 @@
           <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
           <div class="inline-flex flex-col h-auto w-auto">
               <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-4 mr-8 mt-8 mb-4 text-center font-mono font-medium text-3xl">
-                <p class="pt-2 pl-8 pr-8 pt-4">On Call Maintenance and Repair Service</p>
+                <p class="pt-2 pl-8 pr-8 pt-4">Children's Private Hospital</p>
               </div>
               <div class="inline-flex flex-col h-auto w-auto rounded-lg shadow-lg bg-white ml-4 mr-4 mt-2 font-mono font-normal">
                   <p class="p-4 text-2xl text-bold text-left">Goals and Objectives</p>
-                  <p class="p-4 text-md -mt-4">A team Maintenance Taskforce &amp; Repair services aims for improving customer
-services, improving customer satisfaction, enhanced a certain skill, maintaining workplace
-safety, providing good quality services, repair and maintenance with affordable price of services
-using by time and effort.</p>
+                  <p class="p-4 text-md">1. Provide a safe and therapeutic environment for all patient, staff and visitors.</p>
+                  <p class="p-4 text-md">2. To provide a high quality of clientele/patient care to as many people as possible economically and efficiently.</p>
+                  <p class="p-4 text-md">3. To render emergency treatment and first aid in accidents and disasters.</p>
+                  <p class="p-4 text-md">4. To make available in Cadiz City a modern, well-equipped and efficient health care facility that provides a much higher standard of patient care that is available to children.</p>
+                  <p class="p-4 text-md">5. To serve as an example to others and thus encourage national as well as international initiatives to invest in health services in order to improve the overall welfare of the nation.</p>
+                  <p class="p-4 text-md">6. Maintain a healthy working environment for employees.</p>
+                  <p class="p-4 text-md">7. Increase overall satisfaction rates of patients, employees and visiting medical officers.</p>
               </div>
           </div>
         </div>
         <div class="inline-flex flex-row h-auto w-auto">
             <div class="bg-white h-auto max-w-lg mr-8 text-center rounded-lg shadow-lg mb-8 ml-8">
               <h1 class="text-2xl text-bold font-mono">Mission</h1>
-              <p class="text-md font-mono p-4 tracking-tight">A team Maintenance Taskforce &amp; Repair we are committed to client satisfaction and
-understanding that customer service is the foundation of our business, provides good quality to
-help improve and build the client’s property values by providing professional repair and
-maintenance to meet the customers’ expectation.
+              <p class="text-md font-mono p-4 tracking-tight">Children’s Private Hospital is committed to providing a comprehensive range of
+health care services that result in consistently superior health outcomes for our patients. We aim to provide high-value, patient-centered care; to advance hospital care through research and
+quality improvement that exceed our customers’ expectation.
               </p>
             </div>
             <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-8 mr-8">
               <h1 class="text-2xl text-bold font-mono">Vision</h1>
-              <p class="text-md font-mono p-4 tracking-tight">On Call Maintenance Taskforce &amp; Repair Services will consistently to client provide
-friendly, reliable customer service at very affordable to customer satisfaction and company
-commitment to each and every individual household and every business establishment.
+              <p class="text-md font-mono p-4 tracking-tight">Children’s Private Hospital is committed to being a leading provider of health care services by delivering high quality outcomes for patients and ensuring long term profitability.
               </p>
             </div>
         </div>
@@ -105,23 +105,19 @@ commitment to each and every individual household and every business establishme
           <div class="h-auto w-auto m-4">
             <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-8">
                 <h1 class="text-2xl text-bold font-mono pt-2 pl-24 pr-24">Services Offered</h1>
-                <p class="text-md font-mono tracking-tight text-left ml-32 pt-4">1.Carpentry
+                <p class="text-md font-mono tracking-tight text-left ml-24 pt-4">1.General Pediatrics
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-32">2.Plumbing
+                <p class="text-md font-mono tracking-tight text-left ml-24">2.Pediatrics Subspecialties
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-32">3.Electrical
+                <p class="text-md font-mono tracking-tight text-left ml-24">3.Surgery
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-32">4.Painting
+                <p class="text-md font-mono tracking-tight text-left ml-24">4.Anesthesia Department
+                <p class="text-md font-mono tracking-tight text-left ml-24">5.Radiology
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-32">5.Installation
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-32">6.Maintenance
+                <p class="text-md font-mono tracking-tight text-left ml-24 pb-4">6.Other Clinical Services
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-32">7.Repair
-                </p>
-                <p class="text-md font-mono tracking-tight text-left ml-32 pb-4">8.Assembly
-                </p>
-            </div>
+              </div>
           </div>
         </div>
         <div class="h-auto w-auto mr-4 ml-4 mb-4">

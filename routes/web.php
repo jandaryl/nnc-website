@@ -17,8 +17,8 @@ Route::get('/', function () {
 Route::get('/#about-us', function () {
     return view('about-us');
 })->name('about-us');
-Route::get('/services', function () {
-    return view('services');
+Route::get('/services-list', function () {
+    return view('services-list');
 })->name('services');
 Route::get('/service-info', function () {
     return view('service-info');
@@ -29,6 +29,9 @@ Route::get('/nexus-study-lounge-service', function () {
 Route::get('/on-call-maintenance-and-repair-service', function () {
     return view('on-call-maintenance-and-repair-service');
 })->name('on-call-maintenance-and-repair-service');
+Route::get('/children-private-hospital', function () {
+    return view('children-private-hospital');
+})->name('children-private-hospital');
 Route::get('/products', function () {
     return view('products');
 })->name('products');

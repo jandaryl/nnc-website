@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Services</title>
+    <title>Services List</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
@@ -61,7 +61,7 @@
                 <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Children's Private Hospital Logo">
                 <p class="p-8 mb-0">Children's Private Hospital</p>
                 <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>View
+                    <i class="fas fa-eye fa-1x mr-2"></i><a class="text-white" href="{{ route('children-private-hospital') }}">View</a>
                 </button>
             </div>
         </div>

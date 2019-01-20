@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
-  <body class="bg-grey-lightest">
+  <body class="bg-white">
     <!-- Start Header -->
     <section class="hero is-success">
       <div class="hero-body">

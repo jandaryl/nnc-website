@@ -46,21 +46,21 @@
       <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
         <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
           <p class="p-4 mb-6">Everyday Lechon</p>
-          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/life.jpg" alt="Everyday Lechon Logo">
           <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <i class="fas fa-eye fa-1x mr-2"></i>See
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
           <p class="p-4 mb-6">Gelato De Naction</p>
-          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
           <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <i class="fas fa-eye fa-1x mr-2"></i>See
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-64 mt-12 rounded-lg shadow-lg font-mono font-medium">
           <p class="p-4">Theophilia Flowerets Farm</p>
-          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="Theophilia Flowerets Farm Logo">
           <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <i class="fas fa-eye fa-1x mr-2"></i>See
           </button>
@@ -69,21 +69,21 @@
       <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
         <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
           <p class="p-4 mb-6">Everyday Lechon</p>
-          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/life.jpg" alt="Everyday Lechon Logo">
           <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <i class="fas fa-eye fa-1x mr-2"></i>See
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
           <p class="p-4 mb-6">Gelato De Naction</p>
-          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
           <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <i class="fas fa-eye fa-1x mr-2"></i>See
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-64 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
           <p class="p-4">Theophilia Flowerets Farm</p>
-          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="Theophilia Flowerets Farm Logo">
           <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <i class="fas fa-eye fa-1x mr-2"></i>See
           </button>

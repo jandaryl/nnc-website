@@ -183,10 +183,11 @@
         <p>Copyright &copy; 2019 North Negros College</p>
     </div>
     <!-- End Footer -->
-    <!-- Scripts -->
+    <!-- Start Scripts -->
     <script type="text/javascript" src="/js/bulma-carousel.min.js"></script>
     <script>
       var carousels = bulmaCarousel.attach(); // carousels now contains an array of all Carousel instances.
     </script>
+    <!-- End Scripts -->
   </body>
 </html>

@@ -50,27 +50,27 @@
                 <p class="pt-2 pl-8 pr-8 pt-4">Nexus Study Lounge Service</p>
               </div>
               <div class="inline-flex flex-col h-auto w-auto rounded-lg shadow-lg bg-white ml-4 mr-4 mt-2 font-mono font-normal">
-                  <p class="p-2 text-2xl text-bold text-left">Goals and Objectives</p>
-                  <p class="p-2 text-md">1. Provide a spacious and comfortable personal area for co-
+                  <p class="p-4 text-2xl text-bold text-left">Goals and Objectives</p>
+                  <p class="p-4 text-md">1. Provide a spacious and comfortable personal area for co-
   working and study.</p>
-                  <p class="p-2 text-md">2. Improve profitability and growth of business.</p>
-                  <p class="p-2 text-md">3. Develop opportunities for collaboration between members.</p>
-                  <p class="p-2 text-md">4. Provide a budget friendly price with good quality.</p>
-                  <p class="p-2 text-md">5. Continuous improvement of product and service offered to
+                  <p class="p-4 text-md">2. Improve profitability and growth of business.</p>
+                  <p class="p-4 text-md">3. Develop opportunities for collaboration between members.</p>
+                  <p class="p-4 text-md">4. Provide a budget friendly price with good quality.</p>
+                  <p class="p-4 text-md">5. Continuous improvement of product and service offered to
   achieve competitive &nbsp;&nbsp;&nbsp;&nbsp; advantage.</p>
-                  <p class="p-2 text-md">6. Maintain a healthy working environment for employees.</p>
+                  <p class="p-4 text-md">6. Maintain a healthy working environment for employees.</p>
               </div>
           </div>
         </div>
         <div class="inline-flex flex-row h-auto w-auto">
             <div class="bg-white h-auto max-w-lg mr-8 text-center rounded-lg shadow-lg mb-8 ml-8">
               <h1 class="text-2xl text-bold font-mono">Mission</h1>
-              <p class="text-md font-mono p-2 tracking-tight">Nexus Study Lounge aims to provide affordable workspace and business support services to help businessmen and students accomplish their task in a convenient place.
+              <p class="text-md font-mono p-4 tracking-tight">Nexus Study Lounge aims to provide affordable workspace and business support services to help businessmen and students accomplish their task in a convenient place.
               </p>
             </div>
             <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-8 mr-8">
               <h1 class="text-2xl text-bold font-mono">Vision</h1>
-              <p class="text-md font-mono p-2 tracking-tight">To be the best study lounge business in Cadiz City that can increase productivity and satisfaction of customers.
+              <p class="text-md font-mono p-4 tracking-tight">To be the best study lounge business in Cadiz City that can increase productivity and satisfaction of customers.
               </p>
             </div>
         </div>
@@ -104,9 +104,9 @@
           <div class="h-auto w-auto m-4">
             <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-8">
                 <h1 class="text-2xl text-bold font-mono  pt-2">Services Offered</h1>
-                <p class="text-md font-mono p-2 tracking-tight">The main goal of Nexus Study Lounge is to provide good ambiance and a cozy set up for study and doing some school and office works. The customers were also given the option to acquire additional services that will be included in the services offered. The customers can choose to obtain the following:
+                <p class="text-md font-mono p-4 tracking-tight">The main goal of Nexus Study Lounge is to provide good ambiance and a cozy set up for study and doing some school and office works. The customers were also given the option to acquire additional services that will be included in the services offered. The customers can choose to obtain the following:
                 </p>
-                 <p class="text-1xl font-mono p-2 tracking-tight pb-4 pt-2"><em>Printing</em>, <em>computers</em>, <em>free wifi24/7 open</em>, <em>photocopying</em>, <em>book binding</em>, <em>scanners</em>, <em>unlimited coffee or ice tea</em>.
+                 <p class="text-1xl font-mono p-4 tracking-tight pb-4 pt-2"><em>Printing</em>, <em>computers</em>, <em>free wifi24/7 open</em>, <em>photocopying</em>, <em>book binding</em>, <em>scanners</em>, <em>unlimited coffee or ice tea</em>.
                 </p>
               </div>
           </div>

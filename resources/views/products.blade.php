@@ -41,68 +41,56 @@
     </section>
     <!-- End Header -->
     <!-- Start Main Content -->
-    <!-- Start 1st 3 Cards -->
-    <div class="flex flex-row container mx-auto h-auto bg-grey-lightest">
-      <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-16 mb-8 ml-4">
-        <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-          <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-          <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
-          <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-              <i class="fas fa-eye fa-1x mr-2"></i>View
+    <!-- Start Product Cards -->
+    <div class="flex flex-col container mx-auto">
+      <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
+        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
+          <p class="p-4 mb-6">Everyday Lechon</p>
+          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>See
           </button>
         </div>
-        </div>
-        <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-16 mb-8 ml-4">
-        <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-          <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-          <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
-          <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-              <i class="fas fa-eye fa-1x mr-2"></i>View
+        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
+          <p class="p-4 mb-6">Gelato De Naction</p>
+          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>See
           </button>
         </div>
+        <div class="inline-flex flex-col items-center h-auto w-64 mt-12 rounded-lg shadow-lg font-mono font-medium">
+          <p class="p-4">Theophilia Flowerets Farm</p>
+          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>See
+          </button>
         </div>
-        <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-16 mb-8 ml-4">
-          <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-            <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-            <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
-            <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                <i class="fas fa-eye fa-1x mr-2"></i>View
-            </button>
-          </div>
+      </div>
+      <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
+        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
+          <p class="p-4 mb-6">Everyday Lechon</p>
+          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>See
+          </button>
         </div>
+        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
+          <p class="p-4 mb-6">Gelato De Naction</p>
+          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>See
+          </button>
+        </div>
+        <div class="inline-flex flex-col items-center h-auto w-64 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
+          <p class="p-4">Theophilia Flowerets Farm</p>
+          <div class="h-24 w-48 rounded-none bg-grey-light mb-4"></div>
+          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <i class="fas fa-eye fa-1x mr-2"></i>See
+          </button>
+        </div>
+      </div>
     </div>
-    <!-- End 1st Cards -->
-    <!-- Start 2nd 3 Cards -->
-    <div class="flex flex-row container mx-auto h-auto bg-grey-lightest">
-      <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-8 mb-16 ml-4">
-        <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-          <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-          <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
-          <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-              <i class="fas fa-eye fa-1x mr-2"></i>View
-          </button>
-        </div>
-        </div>
-        <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-8 mb-16 ml-4">
-        <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-          <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-          <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
-          <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-              <i class="fas fa-eye fa-1x mr-2"></i>View
-          </button>
-        </div>
-        </div>
-        <div class="w-1/3 h-auto w-24 bg-grey-lighter mr-4 mt-8 mb-16 ml-4">
-          <div class="inline-flex flex-col text-center items-center shadow-md rounded-lg">
-            <h1 class="text-grey-darker text-1xl font-mono font-bold mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-            <img class="w-48 h-24 pt-4" src="https://tailwindcss.com/img/card-top.jpg" alt="Sunset in the mountains">
-            <button class="bg-green hover:bg-green-dark text-white font-bold py-2 px-2 mb-4 w-24 rounded mt-2">
-                <i class="fas fa-eye fa-1x mr-2"></i>View
-            </button>
-          </div>
-        </div>
-    </div>
-    <!-- End 2nd Cards -->
+    <!-- End Product Cards -->
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter" id="footer">

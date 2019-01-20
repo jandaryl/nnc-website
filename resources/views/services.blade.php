@@ -40,7 +40,7 @@
     </section>
     <!-- End Header -->
     <!-- Start Main Content -->
-    <!-- Start 1st 2 Cards -->
+    <!-- Start Service Cards -->
     <div class="flex flex-col container mx-auto h-auto">
         <div class="inline-flex flex-row justify-center text-center">
             <div class="h-auto w-auto bg-grey-lightest mr-12 mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
@@ -82,10 +82,7 @@
             </div>
         </div>
     </div>
-    <!-- End 1st 2 Cards -->
-    <!-- Start 2nd 2 Cards -->
-        <!-- TODO:  -->
-    <!-- End 2nd 2 Cards -->
+    <!-- End Service Cards -->
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter" id="footer">

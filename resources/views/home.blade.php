@@ -135,10 +135,10 @@
               <p>Address : Cor. Villena - Lopes Jaena Sts., Cadiz City, 6121 Negros Occidental, Visayas, Philippines</p>
           </div>
           <div class="ml-24 text-md text-left">
-              <p>Tel. nos. : xxx-xxxx | xxx-xxxx | xxx-xxxx</p>
+              <p>Tel. nos. : 493-1178 | 493-0396</p>
           </div>
           <div class="ml-24 text-md text-left mb-8">
-              <p>Email : example@gmail.com</p>
+              <p>Email : ldmaricel21@gmail.com</p>
           </div>
         </div>
       </div>
@@ -146,8 +146,8 @@
           <div class="inline-flex flex-col">
             <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark" href="{{ route('home') }}">HOME</a>
             <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-0" href="#about-us">ABOUT US</a>
-            <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-0" href="{{ route('home') }}">SERVICES</a>
-            <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-0" href="{{ route('home') }}">PRODUCTS</a>
+            <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-0" href="{{ route('services') }}">SERVICES</a>
+            <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-0" href="{{ route('products') }}">PRODUCTS</a>
             <a class="ml-32 pl-12 py-1 mt-12 text-grey-darkest hover:text-grey-dark -mt-0" href="#contact-us">CONTACT US</a>
           </div>
       </div>

@@ -134,6 +134,16 @@ commitment to each and every individual household and every business establishme
         </div>
       </div>
     <!-- End Service Info -->
+      <!-- Start Helper Buttons -->
+      <div class="flex flex-row justify-between container mx-auto h-auto w-auto">
+         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('nexus-study-lounge-service') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Prev</a>
+         </button>
+         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('children-private-hospital') }}"><i class="fas fa-arrow-right fa-1x mr-2"></i>Next</a>
+         </button>
+      </div>
+      <!-- End Helper Buttons -->
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter mt-12" id="footer">

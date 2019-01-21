@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Everyday Lechon</title>
+    <title>Theophilia Flowerets Farm</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
@@ -46,7 +46,7 @@
       <div class="inline-flex flex-row h-auto w-auto">
           <img class="h-48 w-48 rounded-full mt-8" src="https://i.imgur.com/clby8dV.jpg" alt="Everyday Lechon Logo">
           <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-8 mr-8 mt-24 mb-4 text-center font-mono font-medium text-3xl">
-            <p class="pt-2 pl-8 pr-8 pt-4">Everyday Lechon</p>
+            <p class="pt-2 pl-8 pr-8 pt-4">Theophilia Flowerets Farm</p>
           </div>
       </div>
       <div class="inline-flex flex-row h-auto w-auto">
@@ -77,14 +77,22 @@
           </div>
         </div>
         <div class="inline-flex flex-col h-auto w-auto mt-8">
-            <div class="bg-white h-auto max-auto mr-8 text-center rounded-lg shadow-lg mb-8">
+            <div class="bg-white h-auto w-auto mr-8 text-center rounded-lg shadow-lg mb-8">
               <h1 class="text-2xl text-bold font-mono pt-4">Problem</h1>
-              <p class="text-md font-mono p-4 tracking-tight">Sources of financing.
+              <p class="text-md font-mono p-4 tracking-tight">In Cadiz City we do not have a flower farm a place where people can enjoy and bonding with their families and friends.
               </p>
             </div>
-            <div class="bg-white h-auto max-auto text-center rounded-lg shadow-lg mb-8 mr-8">
+            <div class="bg-white h-auto w-auto text-center rounded-lg shadow-lg mb-8 mr-8">
               <h1 class="text-2xl text-bold font-mono pt-4">Objectives</h1>
-              <p class="text-md font-mono p-4 tracking-tight">To achieve competitiveness and attain the desired outcome in both product and services.
+              <p class="text-md font-mono pl-4 pr-4 pt-4 tracking-tight text-left">1. Maintain the sustainability of the quality products and services.
+              </p>
+              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">2. Provide an creative floral design.
+              </p>
+              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">3. Develop the newest attraction of tourism in the City of Cadiz.
+              </p>
+              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">4. Contribute a low-cost in selling high quality products and services.
+              </p>
+              <p class="text-md font-mono pl-4 pr-4 pb-4 tracking-tight text-left">5. Increase the business profitability and productivity.
               </p>
             </div>
       </div>
@@ -92,12 +100,12 @@
       <div class="inline-flex flex-row h-auto w-auto">
          <div class="bg-white h-auto max-w-lg mr-8 text-center rounded-lg shadow-lg mb-12 ml-8 mt-4">
               <h1 class="text-2xl text-bold font-mono">Mission</h1>
-              <p class="text-md font-mono p-4 tracking-tight">Everyday’s Lechon provides the quality food products and highly satisfying services to meet and even exceed the expectation of valued customers.
+              <p class="text-md font-mono p-4 tracking-tight">Our mission is to provide quality products, services, and to improve the tourism industry of Cadiz City by growing unique flowers, fresh and raised in environmentally responsible way.
               </p>
          </div>
         <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-12 mr-8 mt-4">
               <h1 class="text-2xl text-bold font-mono">Vision</h1>
-              <p class="text-md font-mono p-4 tracking-tight">-Everyday’s Lechon shall be known as the entire Negros Island committed to provide standardized products and services.
+              <p class="text-md font-mono p-4 tracking-tight">Our vision is to operate Theophilia Flowerets Farm and shop in Cadiz City while achieving customer’s satisfaction, it also responsible for taking any catalyst for the development of the city that signifies the business towards society’s contentment.
               </p>
         </div>
       </div>

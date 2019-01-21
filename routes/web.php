@@ -50,6 +50,9 @@ Route::get('/everyday-lechon', function () {
 Route::get('/gelato-de-naction', function () {
     return view('gelato-de-naction');
 })->name('gelato-de-naction');
+Route::get('/theophilia-flowerets-farm', function () {
+    return view('theophilia-flowerets-farm');
+})->name('theophilia-flowerets-farm');
 Route::get('/#contact-us', function () {
     return view('contact-us');
 })->name('contact-us');

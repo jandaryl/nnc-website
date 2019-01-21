@@ -48,21 +48,21 @@
           <p class="p-4 mb-6">Everyday Lechon</p>
           <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/life.jpg" alt="Everyday Lechon Logo">
           <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i><a class="text-white hover:text-white" href="{{ route('everyday-lechon') }}">See</a>
+                    <a class="text-white hover:text-white" href="{{ route('everyday-lechon') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
           <p class="p-4 mb-6">Gelato De Naction</p>
           <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
           <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i><a class="text-white hover:text-white" href="{{ route('gelato-de-naction') }}">See</a>
+                    <a class="text-white hover:text-white" href="{{ route('gelato-de-naction') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-64 mt-12 rounded-lg shadow-lg font-mono font-medium">
           <p class="p-4">Theophilia Flowerets Farm</p>
           <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="Theophilia Flowerets Farm Logo">
           <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
+                     <a class="text-white hover:text-white" href="{{ route('theophilia-flowerets-farm') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
       </div>

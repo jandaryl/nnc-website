@@ -50,7 +50,7 @@
           </div>
       </div>
       <div class="inline-flex flex-row h-auto w-auto">
-        <div class="h-auto w-1/3 mr-8 mt-8 mb-4 ml-8 rounded-lg shadow-lg">
+        <div class="h-full w-1/3 mr-8 mt-8 mb-4 ml-8 rounded-lg shadow-lg">
           <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
             <div class='carousel-container'>
               <div class='carousel-item has-background is-active'>

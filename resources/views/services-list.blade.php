@@ -3,14 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Products</title>
+    <title>Services List</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
-    <link rel="stylesheet" type="text/css" href="/css/bulma-carousel.min.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
-  <body class="bg-grey-lightest">
+  <body class="bg-white">
     <!-- Start Header -->
     <section class="hero is-success">
       <div class="hero-body">
@@ -31,8 +30,8 @@
             <ul>
               <li><a href="{{ route('home') }}">HOME</a></li>
               <li><a href="{{ route('about-us') }}">ABOUT US</a></li>
-              <li><a href="{{ route('services') }}">SERVICES</a></li>
-              <li class="is-active"><a href="{{ route('products') }}">PRODUCTS</a></li>
+              <li class="is-active"><a href="{{ route('services') }}">SERVICES</a></li>
+              <li><a href="{{ route('products') }}">PRODUCTS</a></li>
               <li><a href="{{ route('contact-us') }}">CONTACT US</a></li>
             </ul>
           </div>
@@ -41,56 +40,49 @@
     </section>
     <!-- End Header -->
     <!-- Start Main Content -->
-    <!-- Start Product Cards -->
-    <div class="flex flex-col container mx-auto">
-      <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
-        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6">Everyday Lechon</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/life.jpg" alt="Everyday Lechon Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i><a class="text-white" href="{{ route('product-info') }}">See</a>
-          </button>
+    <!-- Start Service Cards -->
+    <div class="flex flex-col container mx-auto h-auto">
+        <div class="inline-flex flex-row justify-center text-center">
+            <div class="h-auto w-auto bg-grey-lightest mr-12 mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
+                <p class="p-8 mb-0">Nexus Study Lounge Service</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('nexus-study-lounge-service') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>
+                </button>
+            </div>
+            <div class="h-auto w-auto bg-grey-lightest mr-12 mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="On Call Maintenance and Repair Service Logo">
+                <p class="p-8 mb-0">On Call Maintenance and Repair Service</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('on-call-maintenance-and-repair-service') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>
+                </button>
+            </div>
+             <div class="h-auto w-auto bg-grey-lightest mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Children's Private Hospital Logo">
+                <p class="p-8 mb-0">Children's Private Hospital</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                  <a class="text-white hover:text-white" href="{{ route('children-private-hospital') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>
+                </button>
+            </div>
         </div>
-        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6">Gelato De Naction</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
+        <div class="inline-flex flex-row justify-center">
+            <div class="h-auto w-auto bg-grey-lightest mr-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Coin Laundry Shop Logo">
+                <p class="p-8 mb-0">Coin Laundry Shop</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                   <a class="text-white hover:text-white" href="{{ route('coin-laundry-shop') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>
+                </button>
+            </div>
+            <div class="h-auto w-auto bg-grey-lightest mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
+                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Universal Electronic Supply and Service Center Logo">
+                <p class="p-8 mb-0">Universal Electronic Service Center</p>
+                <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('universal-electronic-service-center') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>
+                </button>
+            </div>
         </div>
-        <div class="inline-flex flex-col items-center h-auto w-64 mt-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4">Theophilia Flowerets Farm</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="Theophilia Flowerets Farm Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
-        </div>
-      </div>
-      <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
-        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6">Everyday Lechon</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/life.jpg" alt="Everyday Lechon Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
-        </div>
-        <div class="inline-flex flex-col items-center h-auto w-64 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6">Gelato De Naction</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
-        </div>
-        <div class="inline-flex flex-col items-center h-auto w-64 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4">Theophilia Flowerets Farm</p>
-          <img class="h-24 w-48 rounded-none mb-4" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="Theophilia Flowerets Farm Logo">
-          <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
-          </button>
-        </div>
-      </div>
     </div>
-    <!-- End Product Cards -->
+    <!-- End Service Cards -->
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter" id="footer">
@@ -141,10 +133,5 @@
         <p>Copyright &copy; 2019 North Negros College</p>
     </div>
     <!-- End Footer -->
-    <!-- Scripts -->
-    <script type="text/javascript" src="/js/bulma-carousel.min.js"></script>
-    <script>
-      var carousels = bulmaCarousel.attach(); // carousels now contains an array of all Carousel instances.
-    </script>
   </body>
 </html>

@@ -35,6 +35,9 @@ Route::get('/children-private-hospital', function () {
 Route::get('/coin-laundry-shop', function () {
     return view('coin-laundry-shop');
 })->name('coin-laundry-shop');
+Route::get('/universal-electronic-supply-and-service-center', function () {
+    return view('universal-electronic-supply-and-service-center');
+})->name('universal-electronic-supply-and-service-center');
 Route::get('/products', function () {
     return view('products');
 })->name('products');

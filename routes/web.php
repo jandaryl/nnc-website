@@ -38,12 +38,18 @@ Route::get('/coin-laundry-shop', function () {
 Route::get('/universal-electronic-supply-and-service-center', function () {
     return view('universal-electronic-supply-and-service-center');
 })->name('universal-electronic-supply-and-service-center');
-Route::get('/products', function () {
-    return view('products');
+Route::get('/products-list', function () {
+    return view('products-list');
 })->name('products');
 Route::get('/product-info', function () {
     return view('product-info');
 })->name('product-info');
+Route::get('/everyday-lechon', function () {
+    return view('everyday-lechon');
+})->name('everyday-lechon');
+Route::get('/gelato-de-naction', function () {
+    return view('gelato-de-naction');
+})->name('gelato-de-naction');
 Route::get('/#contact-us', function () {
     return view('contact-us');
 })->name('contact-us');

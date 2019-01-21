@@ -44,9 +44,9 @@
     <!-- Start Product Info -->
     <div class="flex flex-col items-center container mx-auto h-auto w-64 bg-grey-lighter rounded-none shadow-md">
       <div class="inline-flex flex-row h-auto w-auto">
-          <img class="h-48 w-48 rounded-full mt-8" src="https://i.imgur.com/clby8dV.jpg" alt="Everyday Lechon Logo">
+          <img class="h-48 w-48 rounded-full mt-8 shadow-lg" src="https://i.imgur.com/clby8dV.jpg" alt="Everyday Lechon Logo">
           <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-8 mr-8 mt-24 mb-4 text-center font-mono font-medium text-3xl">
-            <p class="pt-2 pl-8 pr-8 pt-4">Theophilia Flowerets Farm</p>
+            <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Theophilia Flowerets Farm</p>
           </div>
       </div>
       <div class="inline-flex flex-row h-auto w-auto">
@@ -119,6 +119,16 @@
         </div>
     </div>
     <!-- End Product Info -->
+    <!-- Start Helper Buttons -->
+      <div class="flex flex-row justify-between container mx-auto h-auto w-auto">
+         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('gelato-de-naction') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Prev</a>
+         </button>
+         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('universal-electronic-supply') }}"><i class="fas fa-arrow-right fa-1x mr-2"></i>Next</a>
+         </button>
+      </div>
+      <!-- End Helper Buttons -->
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter mt-12" id="footer">

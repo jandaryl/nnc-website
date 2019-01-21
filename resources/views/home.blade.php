@@ -46,16 +46,16 @@
       <div class="hero-carousel carousel-animated carousel-animate-fade">
         <div class='carousel-container'>
           <div class='carousel-item has-background is-active'>
-            <img class="is-background" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="" />
+            <img class="is-background" src="https://i.imgur.com/PISUiHD.jpg" alt="North Negros College Front" />
           </div>
           <div class='carousel-item has-background'>
-            <img class="is-background" src="https://wikiki.github.io/images/singer.jpg" alt="" />
+            <img class="is-background" src="https://i.imgur.com/MXme2S3.jpg" alt="North Negros Talabaan" />
           </div>
           <div class='carousel-item has-background'>
-            <img class="is-background" src="https://wikiki.github.io/images/sushi.jpg" alt="" />
+            <img class="is-background" src="https://i.imgur.com/RjfZQE1.jpg" alt="" />
           </div>
           <div class='carousel-item has-background'>
-            <img class="is-background" src="https://wikiki.github.io/images/life.jpg" alt="" />
+            <img class="is-background" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgOyb9ACYbolNzZx-zC1kdFpLQ7PFiMmMC1lYxfqX7DgCoWTG" alt="" />
           </div>
         </div>
         <div class="carousel-navigation is-overlay">
@@ -157,9 +157,9 @@
                   <p>Connect With Us :</p>
               </div>
               <div class="inline-flex flex-row">
-                  <div class="rounded-full h-8 w-8 flex items-center justify-center mr-1"><i class="fab fa-facebook-f"></i></div>
-                  <div class="rounded-full h-8 w-8 flex items-center justify-center mr-1"><i class="fab fa-twitter"></i></div>
-                  <div class="rounded-full h-8 w-8 flex items-center justify-center mr-1"><i class="fab fa-instagram"></i></div>
+                  <a class="text-grey-darkest rounded-full h-8 w-8 flex items-center justify-center mr-1" target="_blank" href="https://www.facebook.com/northnegroscollege"><i class="fab fa-facebook-f"></i></a>
+                  <a class="text-grey-darkest rounded-full h-8 w-8 flex items-center justify-center mr-1" target="_blank" href="https://twitter.com/nncollege"><i class="fab fa-twitter"></i></a>
+                  <a class="text-grey-darkest rounded-full h-8 w-8 flex items-center justify-center mr-1" target="_blank" href="https://www.instagram.com/explore/locations/310154456/north-negros-college-cadiz-city-philippines-6121?hl=cs"><i class="fab fa-instagram"></i></a>
               </div>
         </div>
       </div>

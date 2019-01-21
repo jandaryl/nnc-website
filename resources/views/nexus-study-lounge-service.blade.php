@@ -47,17 +47,15 @@
           <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
           <div class="inline-flex flex-col h-auto w-auto">
               <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-4 mr-8 mt-8 mb-4 text-center font-mono font-medium text-3xl">
-                <p class="pt-2 pl-8 pr-8 pt-4">Nexus Study Lounge Service</p>
+                <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Nexus Study Lounge Service</p>
               </div>
               <div class="inline-flex flex-col h-auto w-auto rounded-lg shadow-lg bg-white ml-4 mr-4 mt-2 font-mono font-normal">
                   <p class="p-4 text-2xl text-bold text-left">Goals and Objectives</p>
-                  <p class="p-4 text-md">1. Provide a spacious and comfortable personal area for co-
-  working and study.</p>
+                  <p class="p-4 text-md">1. Provide a spacious and comfortable personal area for co-working and study.</p>
                   <p class="p-4 text-md">2. Improve profitability and growth of business.</p>
                   <p class="p-4 text-md">3. Develop opportunities for collaboration between members.</p>
                   <p class="p-4 text-md">4. Provide a budget friendly price with good quality.</p>
-                  <p class="p-4 text-md">5. Continuous improvement of product and service offered to
-  achieve competitive &nbsp;&nbsp;&nbsp;&nbsp; advantage.</p>
+                  <p class="p-4 text-md">5. Continuous improvement of product and service offered to achieve  <span class="pl-8">competitive advantage.</span></p>
                   <p class="p-4 text-md">6. Maintain a healthy working environment for employees.</p>
               </div>
           </div>
@@ -75,7 +73,7 @@
             </div>
         </div>
         <div class="inline-flex flex-row items-center h-auto w-auto">
-          <div class="h-auto w-64 m-4 rounded-lg shadow-lg -mt-2">
+          <div class="h-auto w-1/4 m-4 rounded-lg shadow-lg -mt-2">
             <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
               <div class='carousel-container'>
                 <div class='carousel-item has-background is-active'>
@@ -120,6 +118,16 @@
             </div>
         </div>
       </div>
+      <!-- Start Helper Buttons -->
+      <div class="flex flex-row justify-between container mx-auto h-auto w-auto">
+         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('services') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Back</a>
+         </button>
+         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('on-call-maintenance-and-repair-service') }}"><i class="fas fa-arrow-right fa-1x mr-2"></i>Next</a>
+         </button>
+      </div>
+      <!-- End Helper Buttons -->
     <!-- End Service Info -->
     <!-- End Main Content -->
     <!-- Start Footer -->

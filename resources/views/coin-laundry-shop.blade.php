@@ -44,10 +44,10 @@
     <!-- Start Service Info -->
       <div class="flex flex-col items-center container mx-auto h-auto w-auto bg-grey-lighter rounded-none shadow-md">
         <div class="inline-flex flex-row items-center h-auto w-auto ml-12 mr-12 mt-4 mb-12">
-          <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
+          <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="Coin Laundry Shop Logo">
           <div class="inline-flex flex-col h-auto w-auto">
               <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-4 mr-8 mt-8 mb-4 text-center font-mono font-medium text-3xl">
-                <p class="pt-2 pl-8 pr-8 pt-4">Coin Laundry Shop</p>
+                <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Coin Laundry Shop</p>
               </div>
               <div class="inline-flex flex-col h-auto w-auto rounded-lg shadow-lg bg-white ml-4 mr-4 mt-2 font-mono font-normal">
                   <p class="p-4 text-2xl text-bold text-left">Goals and Objectives</p>
@@ -72,7 +72,7 @@
             </div>
         </div>
         <div class="inline-flex flex-row items-center h-auto w-auto">
-          <div class="h-auto w-64 m-4 rounded-lg shadow-lg -mt-2">
+          <div class="h-full w-1/4 m-4 rounded-lg shadow-lg -mt-2">
             <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
               <div class='carousel-container'>
                 <div class='carousel-item has-background is-active'>
@@ -116,6 +116,16 @@
         </div>
       </div>
     <!-- End Service Info -->
+    <!-- Start Helper Buttons -->
+      <div class="flex flex-row justify-between container mx-auto h-auto w-auto">
+         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('children-private-hospital') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Prev</a>
+         </button>
+         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('universal-electronic-service-center') }}"><i class="fas fa-arrow-right fa-1x mr-2"></i>Next</a>
+         </button>
+      </div>
+      <!-- End Helper Buttons -->
     <!-- End Main Content -->
     <!-- Start Footer -->
     <div class="flex bg-grey-lighter mt-12" id="footer">

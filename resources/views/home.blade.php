@@ -55,7 +55,7 @@
             <img class="is-background" src="https://i.imgur.com/RjfZQE1.jpg" alt="" />
           </div>
           <div class='carousel-item has-background'>
-            <img class="is-background" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgOyb9ACYbolNzZx-zC1kdFpLQ7PFiMmMC1lYxfqX7DgCoWTG" alt="" />
+            <img class="is-background" src="https://i.imgur.com/OxLmcYu.jpg" alt="" />
           </div>
         </div>
         <div class="carousel-navigation is-overlay">

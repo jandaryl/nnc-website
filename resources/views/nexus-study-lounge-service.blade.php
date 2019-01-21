@@ -73,20 +73,20 @@
             </div>
         </div>
         <div class="inline-flex flex-row items-center h-auto w-auto">
-          <div class="h-auto w-1/4 m-4 rounded-lg shadow-lg -mt-2">
+          <div class="h-full w-1/4 m-4 rounded-lg shadow-lg -mt-2">
             <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
               <div class='carousel-container'>
                 <div class='carousel-item has-background is-active'>
-                  <img class="is-background" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/dM8u6ZD.jpg" alt="" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://wikiki.github.io/images/singer.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/WJJJf5n.jpg" alt="" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://wikiki.github.io/images/sushi.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/Zj9XdqQ.jpg" alt="" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://wikiki.github.io/images/life.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/9L2e45Z.jpg" alt="" width="640" height="310" />
                 </div>
               </div>
               <div class="carousel-navigation is-centered">

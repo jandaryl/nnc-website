@@ -80,16 +80,19 @@ quality improvement that exceed our customers’ expectation.
             <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
               <div class='carousel-container'>
                 <div class='carousel-item has-background is-active'>
-                  <img class="is-background" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/yzGpSZp.jpg" alt="" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://wikiki.github.io/images/singer.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/WN8ij1r.jpg" alt="" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://wikiki.github.io/images/sushi.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/I837ynn.jpg" alt="" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://wikiki.github.io/images/life.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/iP51d42.jpg" alt="" width="640" height="310" />
+                </div>
+                <div class='carousel-item has-background'>
+                  <img class="is-background" src="https://i.imgur.com/dyApUuV.jpg" alt="" width="640" height="310" />
                 </div>
               </div>
               <div class="carousel-navigation is-centered">

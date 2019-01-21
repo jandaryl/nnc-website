@@ -54,16 +54,16 @@
           <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
             <div class='carousel-container'>
               <div class='carousel-item has-background is-active'>
-                <img class="is-background" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/WUxqN8G.jpg" alt="" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://wikiki.github.io/images/singer.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/pQ3P49i.jpg" alt="" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://wikiki.github.io/images/sushi.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/eFGlSdv.jpg" alt="" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://wikiki.github.io/images/life.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/9ZrUcRr.jpg" alt="" width="640" height="310" />
               </div>
             </div>
             <div class="carousel-navigation is-centered">

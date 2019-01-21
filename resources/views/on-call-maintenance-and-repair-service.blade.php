@@ -83,13 +83,19 @@ commitment to each and every individual household and every business establishme
                   <img class="is-background" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://wikiki.github.io/images/singer.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/XAuMyHt.jpg" alt="" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://wikiki.github.io/images/sushi.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/8nnaG4O.jpg" alt="" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://wikiki.github.io/images/life.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/fGkEdhy.jpg" alt="" width="640" height="310" />
+                </div>
+                <div class='carousel-item has-background'>
+                  <img class="is-background" src="https://i.imgur.com/e0wDFnG.jpg" alt="" width="640" height="310" />
+                </div>
+                <div class='carousel-item has-background'>
+                  <img class="is-background" src="https://i.imgur.com/u0A0EUb.jpg" alt="" width="640" height="310" />
                 </div>
               </div>
               <div class="carousel-navigation is-centered">

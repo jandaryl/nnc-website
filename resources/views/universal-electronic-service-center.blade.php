@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma-carousel.min.css">
-    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/fontawesome.min.css">
   </head>
   <body class="bg-white">
     <!-- Start Header -->
@@ -195,6 +195,7 @@
     <!-- End Footer -->
     <!-- Start Scripts -->
     <script type="text/javascript" src="/js/bulma-carousel.min.js"></script>
+    <script type="text/javascript" src="/js/fontawesome.min.js"></script>
     <script>
       var carousels = bulmaCarousel.attach(); // carousels now contains an array of all Carousel instances.
     </script>

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
-    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/fontawesome.min.css">
   </head>
   <body class="bg-white">
     <!-- Start Header -->
@@ -133,5 +133,6 @@
         <p>Copyright &copy; 2019 North Negros College</p>
     </div>
     <!-- End Footer -->
+    <script type="text/javascript" src="/js/fontawesome.min.js"></script>
   </body>
 </html>

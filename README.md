@@ -1,1 +1,1 @@
-# North Negros College Website
+# North Negros College Website Code

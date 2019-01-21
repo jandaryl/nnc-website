@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Universal Electronic Supply and Service Center</title>
+    <title>Universal Electronic Service Center</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
@@ -44,7 +44,7 @@
     <!-- Start Service Info -->
       <div class="flex flex-col items-center container mx-auto h-auto w-auto bg-grey-lighter rounded-none shadow-md">
         <div class="inline-flex flex-row items-center h-auto w-auto ml-12 mr-12 mt-4 mb-12">
-          <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
+          <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="Universal Electronic Service Center Logo">
           <div class="inline-flex flex-col h-auto w-auto">
               <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-4 mr-8 mt-8 mb-4 text-center font-mono font-medium text-3xl">
                 <p class="pt-2 pl-8 pr-8 pt-4">Universal Electronic Service Center</p>

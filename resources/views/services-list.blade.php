@@ -75,9 +75,9 @@
             </div>
             <div class="h-auto w-auto bg-grey-lightest mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
                 <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Universal Electronic Supply and Service Center Logo">
-                <p class="p-8 mb-0">Universal Electronic Supply and Service Center</p>
+                <p class="p-8 mb-0">Universal Electronic Service Center</p>
                 <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
-                    <a class="text-white hover:text-white" href="{{ route('universal-electronic-supply-and-service-center') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>
+                    <a class="text-white hover:text-white" href="{{ route('universal-electronic-service-center') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>
                 </button>
             </div>
         </div>

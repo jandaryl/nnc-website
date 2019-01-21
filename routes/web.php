@@ -35,9 +35,9 @@ Route::get('/children-private-hospital', function () {
 Route::get('/coin-laundry-shop', function () {
     return view('coin-laundry-shop');
 })->name('coin-laundry-shop');
-Route::get('/universal-electronic-supply-and-service-center', function () {
-    return view('universal-electronic-supply-and-service-center');
-})->name('universal-electronic-supply-and-service-center');
+Route::get('/universal-electronic-service-center', function () {
+    return view('universal-electronic-service-center');
+})->name('universal-electronic-service-center');
 Route::get('/products-list', function () {
     return view('products-list');
 })->name('products');
@@ -53,6 +53,10 @@ Route::get('/gelato-de-naction', function () {
 Route::get('/theophilia-flowerets-farm', function () {
     return view('theophilia-flowerets-farm');
 })->name('theophilia-flowerets-farm');
+Route::get('/universal-electronic-supply', function () {
+    return view('universal-electronic-supply');
+})->name('universal-electronic-supply');
+
 Route::get('/#contact-us', function () {
     return view('contact-us');
 })->name('contact-us');

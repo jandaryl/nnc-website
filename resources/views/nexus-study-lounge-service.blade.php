@@ -51,13 +51,11 @@
               </div>
               <div class="inline-flex flex-col h-auto w-auto rounded-lg shadow-lg bg-white ml-4 mr-4 mt-2 font-mono font-normal">
                   <p class="p-4 text-2xl text-bold text-left">Goals and Objectives</p>
-                  <p class="p-4 text-md">1. Provide a spacious and comfortable personal area for co-
-  working and study.</p>
+                  <p class="p-4 text-md">1. Provide a spacious and comfortable personal area for co-working and study.</p>
                   <p class="p-4 text-md">2. Improve profitability and growth of business.</p>
                   <p class="p-4 text-md">3. Develop opportunities for collaboration between members.</p>
                   <p class="p-4 text-md">4. Provide a budget friendly price with good quality.</p>
-                  <p class="p-4 text-md">5. Continuous improvement of product and service offered to
-  achieve competitive &nbsp;&nbsp;&nbsp;&nbsp; advantage.</p>
+                  <p class="p-4 text-md">5. Continuous improvement of product and service offered to achieve  <span class="pl-8">competitive advantage.</span></p>
                   <p class="p-4 text-md">6. Maintain a healthy working environment for employees.</p>
               </div>
           </div>
@@ -75,7 +73,7 @@
             </div>
         </div>
         <div class="inline-flex flex-row items-center h-auto w-auto">
-          <div class="h-auto w-64 m-4 rounded-lg shadow-lg -mt-2">
+          <div class="h-auto w-1/4 m-4 rounded-lg shadow-lg -mt-2">
             <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
               <div class='carousel-container'>
                 <div class='carousel-item has-background is-active'>

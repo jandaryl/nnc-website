@@ -44,7 +44,7 @@
     <!-- Start Service Info -->
       <div class="flex flex-col items-center container mx-auto h-auto w-auto bg-grey-lighter rounded-none shadow-md">
         <div class="inline-flex flex-row items-center h-auto w-auto ml-12 mr-12 mt-4 mb-12">
-          <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
+          <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="On Call Maintenance and Repair Service Logo">
           <div class="inline-flex flex-col h-auto w-auto">
               <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-4 mr-8 mt-8 mb-4 text-center font-mono font-medium text-3xl">
                 <p class="pt-2 pl-8 pr-8 pt-4">On Call Maintenance and Repair Service</p>
@@ -75,8 +75,8 @@ commitment to each and every individual household and every business establishme
               </p>
             </div>
         </div>
-        <div class="inline-flex flex-row items-center h-auto w-auto">
-          <div class="h-auto w-64 m-4 rounded-lg shadow-lg -mt-2">
+        <div class="inline-flex flex-row items-center justify-center h-auto w-auto">
+          <div class="h-full w-1/4 m-4 rounded-lg shadow-lg -mt-2">
             <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
               <div class='carousel-container'>
                 <div class='carousel-item has-background is-active'>

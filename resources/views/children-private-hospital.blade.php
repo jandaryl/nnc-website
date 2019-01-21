@@ -75,8 +75,8 @@ quality improvement that exceed our customers’ expectation.
               </p>
             </div>
         </div>
-        <div class="inline-flex flex-row items-center h-auto w-auto">
-          <div class="h-auto w-64 m-4 rounded-lg shadow-lg -mt-2">
+        <div class="inline-flex flex-row items-center justify-center h-auto w-auto">
+          <div class="h-full w-1/4 m-4 rounded-lg shadow-lg -mt-2">
             <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
               <div class='carousel-container'>
                 <div class='carousel-item has-background is-active'>

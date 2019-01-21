@@ -20,9 +20,6 @@ Route::get('/#about-us', function () {
 Route::get('/services-list', function () {
     return view('services-list');
 })->name('services');
-Route::get('/service-info', function () {
-    return view('service-info');
-})->name('service-info');
 Route::get('/nexus-study-lounge-service', function () {
     return view('nexus-study-lounge-service');
 })->name('nexus-study-lounge-service');
@@ -41,9 +38,6 @@ Route::get('/universal-electronic-service-center', function () {
 Route::get('/products-list', function () {
     return view('products-list');
 })->name('products');
-Route::get('/product-info', function () {
-    return view('product-info');
-})->name('product-info');
 Route::get('/everyday-lechon', function () {
     return view('everyday-lechon');
 })->name('everyday-lechon');

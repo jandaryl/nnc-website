@@ -32,6 +32,9 @@ Route::get('/on-call-maintenance-and-repair-service', function () {
 Route::get('/children-private-hospital', function () {
     return view('children-private-hospital');
 })->name('children-private-hospital');
+Route::get('/coin-laundry-shop', function () {
+    return view('coin-laundry-shop');
+})->name('coin-laundry-shop');
 Route::get('/products', function () {
     return view('products');
 })->name('products');

@@ -47,7 +47,7 @@
           <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="Universal Electronic Service Center Logo">
           <div class="inline-flex flex-col h-auto w-auto">
               <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-4 mr-8 mt-8 mb-4 text-center font-mono font-medium text-3xl">
-                <p class="pt-2 pl-8 pr-8 pt-4">Universal Electronic Service Center</p>
+                <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Universal Electronic Service Center</p>
               </div>
               <div class="inline-flex flex-col h-auto w-auto rounded-lg shadow-lg bg-white ml-4 mr-4 mt-2 font-mono font-normal">
                   <p class="p-4 text-2xl text-bold text-left">Goals and Objectives</p>

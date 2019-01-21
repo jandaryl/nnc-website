@@ -47,7 +47,7 @@
           <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
           <div class="inline-flex flex-col h-auto w-auto">
               <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-4 mr-8 mt-8 mb-4 text-center font-mono font-medium text-3xl">
-                <p class="pt-2 pl-8 pr-8 pt-4">Children's Private Hospital</p>
+                <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Children's Private Hospital</p>
               </div>
               <div class="inline-flex flex-col h-auto w-auto rounded-lg shadow-lg bg-white ml-4 mr-4 mt-2 font-mono font-normal">
                   <p class="p-4 text-2xl text-bold text-left">Goals and Objectives</p>

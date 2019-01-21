@@ -46,7 +46,7 @@
       <div class="inline-flex flex-row h-auto w-auto">
           <img class="h-48 w-48 rounded-full mt-8" src="https://i.imgur.com/clby8dV.jpg" alt="Everyday Lechon Logo">
           <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-8 mr-8 mt-24 mb-4 text-center font-mono font-medium text-3xl">
-            <p class="pt-2 pl-8 pr-8 pt-4">Gelato De Naction</p>
+            <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Gelato De Naction</p>
           </div>
       </div>
       <div class="inline-flex flex-row h-auto w-auto">

@@ -157,9 +157,9 @@
                   <p>Connect With Us :</p>
               </div>
               <div class="inline-flex flex-row">
-                  <div class="rounded-full h-8 w-8 flex items-center justify-center mr-1"><i class="fab fa-facebook-f"></i></div>
-                  <div class="rounded-full h-8 w-8 flex items-center justify-center mr-1"><i class="fab fa-twitter"></i></div>
-                  <div class="rounded-full h-8 w-8 flex items-center justify-center mr-1"><i class="fab fa-instagram"></i></div>
+                  <a class="text-grey-darkest rounded-full h-8 w-8 flex items-center justify-center mr-1" target="_blank" href="https://www.facebook.com/northnegroscollege"><i class="fab fa-facebook-f"></i></a>
+                  <a class="text-grey-darkest rounded-full h-8 w-8 flex items-center justify-center mr-1" target="_blank" href="https://twitter.com/nncollege"><i class="fab fa-twitter"></i></a>
+                  <a class="text-grey-darkest rounded-full h-8 w-8 flex items-center justify-center mr-1" target="_blank" href="https://www.instagram.com/explore/locations/310154456/north-negros-college-cadiz-city-philippines-6121?hl=cs"><i class="fab fa-instagram"></i></a>
               </div>
         </div>
       </div>

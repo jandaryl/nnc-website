@@ -45,21 +45,21 @@
     <div class="flex flex-col container mx-auto">
       <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
         <div class="inline-flex flex-col items-center h-auto w-1/3 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6 text-2xl">Everyday Lechon</p>
+          <a class="p-4 mb-6 text-2xl text-grey-darkest hover:underline" href="{{ route('everyday-lechon') }}">Everyday Lechon</a>
           <img class="h-32 w-64 rounded-none mb-4" src="https://wikiki.github.io/images/life.jpg" alt="Everyday Lechon Logo">
           <button class="bg-green hover:bg-green-dark text-white text-md font-bold py-2 px-4 h-10 w-24 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('everyday-lechon') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-1/3 mr-12 mt-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-6 text-2xl">Gelato De Naction</p>
+          <a class="p-4 mb-6 text-2xl text-grey-darkest hover:underline" href="{{ route('gelato-de-naction') }}">Gelato De Naction</a>
           <img class="h-32 w-64 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
           <button class="bg-green hover:bg-green-dark text-white text-md font-bold py-2 px-4 h-10 w-24 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('gelato-de-naction') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-1/3 mt-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 text-2xl">Theophilia Flowerets Farm</p>
+          <a class="p-4 mb-6 text-2xl text-grey-darkest hover:underline" href="{{ route('theophilia-flowerets-farm') }}">Theophilia Flowerets Farm</a>
           <img class="h-32 w-64 rounded-none mb-4 -mt-2" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="Theophilia Flowerets Farm Logo">
           <button class="bg-green hover:bg-green-dark text-white text-1xl font-bold py-2 px-4 h-10 w-24 rounded mb-4">
                      <a class="text-white hover:text-white" href="{{ route('theophilia-flowerets-farm') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
@@ -68,24 +68,24 @@
       </div>
       <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
         <div class="inline-flex flex-col items-center h-auto w-1/3 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-0 text-2xl">Universal Electronic Supply</p>
+          <a class="p-4 mb-6 text-2xl text-grey-darkest hover:underline" href="{{ route('universal-electronic-supply') }}">Universal Electronic Supply</a>
           <img class="h-32 w-64 rounded-none mb-4" src="https://wikiki.github.io/images/life.jpg" alt="Universal Electronic Supply Logo">
           <button class="bg-green hover:bg-green-dark text-white text-md font-bold py-2 px-4 h-10 w-24 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('universal-electronic-supply') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-1/3 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 mb-8 text-2xl">Gelato De Naction</p>
-          <img class="h-32 w-64 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
+          <a class="p-4 mb-6 text-2xl text-grey-darkest hover:underline" href="{{ route('gelato-de-naction') }}">Gelato De Naction</a>
+          <img class="h-32 w-64 mt-8 rounded-none mb-4" src="https://wikiki.github.io/images/sushi.jpg" alt="Gelato De Naction Logo">
           <button class="bg-green hover:bg-green-dark text-white text-md font-bold py-2 px-4 h-10 w-24 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
+                    <a class="text-white hover:text-white" href="{{ route('gelato-de-naction') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-1/3 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <p class="p-4 text-2xl">Theophilia Flowerets Farm</p>
+          <a class="p-4 mb-6 text-2xl text-grey-darkest hover:underline" href="{{ route('theophilia-flowerets-farm') }}">Theophilia Flowerets Farm</a>
           <img class="h-32 w-64 rounded-none mb-4" src="https://wikiki.github.io/images/merry-christmas.jpg" alt="Theophilia Flowerets Farm Logo">
           <button class="bg-green hover:bg-green-dark text-white text-md font-bold py-2 px-4 h-10 w-24 rounded mb-4">
-                    <i class="fas fa-eye fa-1x mr-2"></i>See
+                    <a class="text-white hover:text-white" href="{{ route('theophilia-flowerets-farm') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
       </div>

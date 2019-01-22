@@ -1,8 +1,9 @@
-<!DOCTYPE html> <html>
+<!DOCTYPE html>
+<html>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Universal Electronic Supply</title>
+    <title>Native Chicken Food Hall</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
@@ -43,9 +44,9 @@
     <!-- Start Product Info -->
     <div class="flex flex-col items-center container mx-auto h-auto w-64 bg-grey-lighter rounded-none shadow-md">
       <div class="inline-flex flex-row h-auto w-auto">
-          <img class="h-48 w-48 rounded-lg mt-8 shadow-lg" src="https://i.imgur.com/adSLkmB.png" alt="Universal Electronic Supply Logo">
+          <img class="h-48 w-48 rounded-full mt-8 shadow-lg" src="https://i.imgur.com/ewMC2hW.jpg" alt="Native Chicken Food Hall Logo">
           <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-8 mr-8 mt-24 mb-4 text-center font-mono font-medium text-3xl">
-            <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Universal Electronic Supply</p>
+            <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Native Chicken Food Hall</p>
           </div>
       </div>
       <div class="inline-flex flex-row h-auto w-auto">
@@ -53,16 +54,19 @@
           <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
             <div class='carousel-container'>
               <div class='carousel-item has-background is-active'>
-                <img class="is-background" src="https://i.imgur.com/2ypF3FJ.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/ADRC7TQ.jpg" alt="" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/AfdwhSN.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/4etnpKw.jpg" alt="" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/fbJQAWf.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/C9uMfAv.jpg" alt="" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/KbSnsWi.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/pNrxHfo.jpg" alt="" width="640" height="310" />
+              </div>
+              <div class='carousel-item has-background'>
+                <img class="is-background" src="https://i.imgur.com/51iKdWU.jpg" alt="" width="640" height="310" />
               </div>
             </div>
             <div class="carousel-navigation is-centered">
@@ -76,18 +80,22 @@
           </div>
         </div>
         <div class="inline-flex flex-col h-auto w-auto mt-8">
-            <div class="bg-white h-auto w-auto mr-8 text-center rounded-lg shadow-lg mb-8">
+            <div class="bg-white h-auto max-auto mr-8 text-center rounded-lg shadow-lg mb-8">
               <h1 class="text-2xl text-bold font-mono pt-4">Problem</h1>
-              <p class="text-md font-mono p-4 tracking-tight">Now a day’s many people are dependent in the electronic gadgets and appliances they cannot live without this things, not just rich people, but also lower level of people.
+              <p class="text-md font-mono p-4 tracking-tight">As Filipino Begun to involve in other countries custom, the research wants to develop a kind of business where customers will find a Filipino menus and cultures; a food hall where they can eat according in the Filipino styles.
               </p>
             </div>
-            <div class="bg-white h-auto w-auto text-center rounded-lg shadow-lg mb-8 mr-8">
+            <div class="bg-white h-auto max-auto text-center rounded-lg shadow-lg mb-8 mr-8">
               <h1 class="text-2xl text-bold font-mono pt-4">Objectives</h1>
-              <p class="text-md font-mono pl-4 pr-4 pt-4 tracking-tight text-left">1. It aims to be more competitive in terms of achieving higher customer <span class="pl-8">satisfaction.</span>
+              <p class="text-md font-mono pl-4 pr-4 pt-4 tracking-tight text-left">1. Be effective and efficient superior customer service.
               </p>
-              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">2. Maintain financial stability.
+              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">2. Customer satisfaction and loyalty.
               </p>
-              <p class="text-md font-mono pl-4 pr-4 pb-4 tracking-tight text-left">3. Improve profitability.
+              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">3. Maintain great food selection.
+              </p>
+              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">4. 10% discount will be applied to seniors to attract market.
+              </p>
+              <p class="text-md font-mono pl-4 pr-4 pb-4 tracking-tight text-left">5. Improved profitability.
               </p>
             </div>
       </div>
@@ -95,12 +103,12 @@
       <div class="inline-flex flex-row h-auto w-auto">
          <div class="bg-white h-auto max-w-lg mr-8 text-center rounded-lg shadow-lg mb-12 ml-8 mt-4">
               <h1 class="text-2xl text-bold font-mono">Mission</h1>
-              <p class="text-md font-mono p-4 tracking-tight">Universal Electronic Supply and Service Center aims to promote the best electronic repair and to provide a great quality product in order to satisfy their needs.
+              <p class="text-md font-mono p-4 tracking-tight">Native chicken food hall intend to deliver consistent taste and quality to our valued customer by using the native chicken and to serve good, safe food quickly with the local and nature Filipino eating customs It serves a Native Chicken menus behalf of millennial world.
               </p>
          </div>
         <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-12 mr-8 mt-4">
               <h1 class="text-2xl text-bold font-mono">Vision</h1>
-              <p class="text-md font-mono p-4 tracking-tight">Universal Electronic Supply and Service Center shall become a well-known electronic center in the entire Cadiz City in terms of best quality products and services.
+              <p class="text-md font-mono p-4 tracking-tight">Native chicken food hall will serve locally and globally and to make our food as an essential part of life. It peruses to remain the Filipino menus until it became as best Native Chicken hall in the country.
               </p>
         </div>
       </div>
@@ -114,14 +122,14 @@
         </div>
     </div>
     <!-- End Product Info -->
-      <!-- Start Helper Buttons -->
+     <!-- Start Helper Buttons -->
       <div class="flex flex-row justify-between container mx-auto h-auto w-auto">
          <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
-                    <a class="text-white hover:text-white" href="{{ route('theophilia-flowerets-farm') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Prev</a>
+                    <a class="text-white hover:text-white" href="{{ route('universal-electronic-supply') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Prev</a>
          </button>
-         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
-                    <a class="text-white hover:text-white" href="{{ route('native-chicken-food-hall') }}"><i class="fas fa-arrow-right fa-1x mr-2"></i>Next</a>
-         </button>
+         <!-- <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
+                    <a class="text-white hover:text-white" href="{{ route('gelato-de-naction') }}"><i class="fas fa-arrow-right fa-1x mr-2"></i>Next</a>
+         </button> -->
       </div>
       <!-- End Helper Buttons -->
     <!-- End Main Content -->

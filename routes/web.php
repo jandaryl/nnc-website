@@ -50,7 +50,9 @@ Route::get('/theophilia-flowerets-farm', function () {
 Route::get('/universal-electronic-supply', function () {
     return view('universal-electronic-supply');
 })->name('universal-electronic-supply');
-
+Route::get('/native-chicken-food-hall', function () {
+    return view('native-chicken-food-hall');
+})->name('native-chicken-food-hall');
 Route::get('/#contact-us', function () {
     return view('contact-us');
 })->name('contact-us');

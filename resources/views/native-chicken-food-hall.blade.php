@@ -44,7 +44,7 @@
     <!-- Start Product Info -->
     <div class="flex flex-col items-center container mx-auto h-auto w-64 bg-grey-lighter rounded-none shadow-md">
       <div class="inline-flex flex-row h-auto w-auto">
-          <img class="h-48 w-48 rounded-full mt-8 shadow-lg" src="https://i.imgur.com/ewMC2hW.jpg" alt="Native Chicken Food Hall Logo">
+          <img class="h-48 w-48 rounded-full mt-8 shadow-lg" src="https://i.imgur.com/OSM06cm.jpg" alt="Native Chicken Food Hall Logo">
           <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-8 mr-8 mt-24 mb-4 text-center font-mono font-medium text-3xl">
             <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Native Chicken Food Hall</p>
           </div>
@@ -54,19 +54,19 @@
           <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
             <div class='carousel-container'>
               <div class='carousel-item has-background is-active'>
-                <img class="is-background" src="https://i.imgur.com/ADRC7TQ.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/ReFhB6f.jpg" alt="Chicken" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/4etnpKw.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/INKzDq7.jpg" alt="Chicken A" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/C9uMfAv.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/ZU5Td4L.jpg" alt="Chicken B" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/pNrxHfo.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/ehLnHcb.jpg" alt="Chicken C" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/51iKdWU.jpg" alt="" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/ErP3C7A.jpg" alt="Chicken D" width="640" height="310" />
               </div>
             </div>
             <div class="carousel-navigation is-centered">

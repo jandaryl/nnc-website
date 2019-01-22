@@ -100,7 +100,7 @@
          </div>
         <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-12 mr-8 mt-4">
               <h1 class="text-2xl text-bold font-mono">Vision</h1>
-              <p class="text-md font-mono p-4 tracking-tight">-Everyday’s Lechon shall be known as the entire Negros Island committed to provide standardized products and services.
+              <p class="text-md font-mono p-4 tracking-tight">Everyday’s Lechon shall be known as the entire Negros Island committed to provide standardized products and services.
               </p>
         </div>
       </div>

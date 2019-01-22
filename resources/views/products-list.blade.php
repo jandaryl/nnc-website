@@ -68,21 +68,21 @@
       </div>
       <div class="inline-flex flex-row justify-center h-auto w-auto text-center">
         <div class="inline-flex flex-col items-center h-auto w-1/3 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <a class="p-4 mb-6 text-2xl text-grey-darkest hover:underline" href="{{ route('universal-electronic-supply') }}">Universal Electronic Supply</a>
+          <a class="p-4 mb-4 text-2xl text-grey-darkest hover:underline" href="{{ route('universal-electronic-supply') }}">Universal Electronic Supply</a>
           <img class="h-32 w-64 rounded-none mb-4" src="https://i.imgur.com/KbSnsWi.jpg" alt="Universal Electronic Supply Product">
           <button class="bg-green hover:bg-green-dark text-white text-md font-bold py-2 px-4 h-10 w-24 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('universal-electronic-supply') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-1/3 mr-12 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <a class="p-4 mb-4 text-2xl text-grey-darkest hover:underline" href="{{ route('native-chicken-food-hall') }}">Native Chicken Food Hall</a>
+          <a class="p-4 mb-2 text-2xl text-grey-darkest hover:underline" href="{{ route('native-chicken-food-hall') }}">Native Chicken Food Hall</a>
           <img class="h-32 w-64 mt-2 rounded-none mb-4" src="https://i.imgur.com/ZU5Td4L.jpg" alt="Native Chicken Food Hall Product">
           <button class="bg-green hover:bg-green-dark text-white text-md font-bold py-2 px-4 h-10 w-24 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('native-chicken-food-hall') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>
           </button>
         </div>
         <div class="inline-flex flex-col items-center h-auto w-1/3 mt-12 mb-12 rounded-lg shadow-lg font-mono font-medium">
-          <a class="p-4 mb-6 text-2xl text-grey-darkest hover:underline" href="{{ route('trendy-fashion-boutique') }}">Trendy Fashion Boutique</a>
+          <a class="p-4 mb-4 text-2xl text-grey-darkest hover:underline" href="{{ route('trendy-fashion-boutique') }}">Trendy Fashion Boutique</a>
           <img class="h-32 w-64 rounded-none mb-4" src="https://i.imgur.com/PVFlisR.jpg" alt="Trendy Fashion Boutique Product">
           <button class="bg-green hover:bg-green-dark text-white text-md font-bold py-2 px-4 h-10 w-24 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('trendy-fashion-boutique') }}"><i class="fas fa-eye fa-1x mr-2"></i>See</a>

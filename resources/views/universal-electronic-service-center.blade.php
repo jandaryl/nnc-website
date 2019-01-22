@@ -160,10 +160,10 @@
               <p>Address : Cor. Villena - Lopes Jaena Sts., Cadiz City, 6121 Negros Occidental, Visayas, Philippines</p>
           </div>
           <div class="ml-24 text-md text-left">
-              <p>Tel. nos. : xxx-xxxx | xxx-xxxx | xxx-xxxx</p>
+              <p>Tel. nos. : 493-1178 | 493-0396</p>
           </div>
           <div class="ml-24 text-md text-left mb-8">
-              <p>Email : example@gmail.com</p>
+              <p>Email : ldmaricel21@gmail.com</p>
           </div>
         </div>
       </div>

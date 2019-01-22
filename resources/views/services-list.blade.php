@@ -44,7 +44,7 @@
     <div class="flex flex-col container mx-auto h-auto">
         <div class="inline-flex flex-row justify-center text-center">
             <div class="h-auto w-1/3 bg-grey-lightest mr-12 mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
-                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Nexus Study Lounge Service Logo">
+                <img class="h-24 w-24 rounded-none mt-4" src="https://i.imgur.com/GhOuQqe.png" alt="Nexus Study Lounge Service Logo">
                 <a class="p-8 mb-0 text-grey-darkest hover:underline text-lg" href="{{ route('nexus-study-lounge-service') }}">Nexus Study Lounge Service</a>
                 <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('nexus-study-lounge-service') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>
@@ -74,14 +74,14 @@
                 </button>
             </div>
             <div class="h-auto w-1/3 bg-grey-lightest mr-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
-                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Universal Electronic Supply and Service Center Logo">
+                <img class="h-24 w-24 rounded-none mt-4" src="https://i.imgur.com/adSLkmB.png" alt="Universal Electronic Supply and Service Center Logo">
                 <a class="p-8 mb-0 text-grey-darkest hover:underline text-lg text-center" href="{{ route('universal-electronic-service-center') }}">Universal Electronic Service Center</a>
                 <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('universal-electronic-service-center') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>
                 </button>
             </div>
             <div class="h-auto w-1/3 bg-grey-lightest mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
-                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="Universal Electronic Supply and Service Center Logo">
+                <img class="h-24 w-24 rounded-none mt-4" src="https://i.imgur.com/qJUKtRF.jpg" alt="Universal Electronic Supply and Service Center Logo">
                 <a class="p-8 mb-0 text-grey-darkest hover:underline text-lg text-center" href="{{ route('pets-malu-animal-health-care-center') }}">Pets – Malu Animal Health Care Center</a>
                 <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('pets-malu-animal-health-care-center') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>

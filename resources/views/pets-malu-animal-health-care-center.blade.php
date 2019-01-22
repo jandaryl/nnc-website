@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Universal Electronic Service Center</title>
+    <title>Pets - Malu Animal Health Care Center</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
@@ -44,26 +44,26 @@
     <!-- Start Service Info -->
       <div class="flex flex-col items-center container mx-auto h-auto w-auto bg-grey-lighter rounded-none shadow-md">
         <div class="inline-flex flex-row items-center h-auto w-auto ml-12 mr-12 mt-4 mb-12">
-          <img class="h-48 w-48 rounded-lg shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/adSLkmB.png" alt="Universal Electronic Service Center Logo">
+          <img class="h-48 w-48 rounded-lg shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/qJUKtRF.jpg" alt="Pets - Malu Animal Health Care Center Logo">
           <div class="inline-flex flex-col h-auto w-auto">
               <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-4 mr-8 mt-8 mb-4 text-center font-mono font-medium text-3xl">
-                <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Universal Electronic Service Center</p>
+                <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Pets - Malu Animal Health Care Center</p>
               </div>
               <div class="inline-flex flex-col h-auto w-auto rounded-lg shadow-lg bg-white ml-4 mr-4 mt-2 font-mono font-normal">
                   <p class="p-4 text-2xl text-bold text-left">Goals and Objectives</p>
-                  <p class="p-4 text-md">In order to achieve its company objective, as an organization, it aims to be more competitive in terms of achieving higher customer satisfaction; maintain financial stability and improve profitability.</p>
+                  <p class="p-4 text-md">In order to achieve the desired goal to become a successful business, the organization sets the following goals and objectives.</p>
               </div>
           </div>
         </div>
         <div class="inline-flex flex-row h-auto w-auto">
-            <div class="bg-white h-auto max-w-lg mr-8 text-center rounded-lg shadow-lg mb-8 ml-8">
+            <div class="bg-white h-auto w-1/3 mr-8 text-center rounded-lg shadow-lg mb-8 ml-8">
               <h1 class="text-2xl text-bold font-mono">Mission</h1>
-              <p class="text-md font-mono p-4 tracking-tight">Universal Electronic Supply and Service Center aims to promote the best electronic repair and to provide a great quality product in order to satisfy their needs.
+              <p class="text-md font-mono p-4 tracking-tight">???
               </p>
             </div>
             <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-8 mr-8">
               <h1 class="text-2xl text-bold font-mono">Vision</h1>
-              <p class="text-md font-mono p-4 tracking-tight">Universal Electronic Supply and Service Center shall become a well-known electronic center in the entire Cadiz City in terms of best quality products and services.
+              <p class="text-md font-mono p-4 tracking-tight">Our vision is to become competitive and well known for being a private animal clinic that will provide a best quality of service and supply of goods and medicines for pets in the city and even in the other city.
               </p>
             </div>
         </div>
@@ -72,22 +72,25 @@
             <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
               <div class='carousel-container'>
                 <div class='carousel-item has-background is-active'>
-                  <img class="is-background" src="https://i.imgur.com/QpkfVHV.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/WiPR475.jpg" alt="Dog Shaving" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://i.imgur.com/molWzzb.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/iDyx2OI.jpg" alt="Dog Nail Cutting" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://i.imgur.com/6aRxjEg.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/EeoxBLz.jpg" alt="Dog Vaccination" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://i.imgur.com/mvfoSty.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/b9ADURk.jpg" alt="Dog Consultation" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://i.imgur.com/Lm8xLAw.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/S0aC6CT.jpg" alt="Dog Housing" width="640" height="310" />
                 </div>
                 <div class='carousel-item has-background'>
-                  <img class="is-background" src="https://i.imgur.com/mqd8bu2.jpg" alt="" width="640" height="310" />
+                  <img class="is-background" src="https://i.imgur.com/mwNWCFU.jpg" alt="Dog Baby" width="640" height="310" />
+                </div>
+                <div class='carousel-item has-background'>
+                  <img class="is-background" src="https://i.imgur.com/UIgE4hq.jpg" alt="Dog Cropping" width="640" height="310" />
                 </div>
               </div>
               <div class="carousel-navigation is-centered">
@@ -103,25 +106,21 @@
           <div class="h-auto w-auto m-4">
             <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-8">
                 <h1 class="text-2xl text-bold font-mono pt-2 pl-24 pr-24">Services Offered</h1>
-                <p class="text-md font-mono tracking-tight text-left ml-12 pt-4">We offered appliances repair like:
+                <p class="text-md font-mono tracking-tight text-left ml-8 pt-4">1. Haircut for pets (with free bathing for pets).
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-12 pt-4">1.) TV
+                <p class="text-md font-mono tracking-tight text-left ml-8">2. Nail cutting for pets (with free cleaning)
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-12">2.) CD/DVD player
+                <p class="text-md font-mono tracking-tight text-left ml-8">3. Tail docking for pet (with free cleaning)
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-12">3.) Air Condition
+                <p class="text-md font-mono tracking-tight text-left ml-8">4. Cropping ear for pet (with free cleaning)
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-12">4.) Computer
+                <p class="text-md font-mono tracking-tight text-left ml-8">5. Consultation
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-12">5.) Cellphone
+                <p class="text-md font-mono tracking-tight text-left ml-8">6. Vaccination
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-12">6.) Laptop
+                <p class="text-md font-mono tracking-tight text-left ml-8">7. Deworming
                 </p>
-                <p class="text-md font-mono tracking-tight text-left ml-12">7.) Tablet
-                </p>
-                <p class="text-md font-mono tracking-tight text-left ml-12">9.) Electric Fan
-                </p>
-                <p class="text-md font-mono tracking-tight text-left ml-12 pb-4">10. Washing Machine
+                <p class="text-md font-mono tracking-tight text-left ml-8 pb-4 pr-4">8. Pet boarding (with free feeding and bath cleaning for pet).
                 </p>
               </div>
           </div>
@@ -139,10 +138,7 @@
       <!-- Start Helper Buttons -->
       <div class="flex flex-row justify-between container mx-auto h-auto w-auto">
          <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
-                    <a class="text-white hover:text-white" href="{{ route('coin-laundry-shop') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Prev</a>
-         </button>
-         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
-                    <a class="text-white hover:text-white" href="{{ route('pets-malu-animal-health-care-center') }}"><i class="fas fa-arrow-right fa-1x mr-2"></i>Next</a>
+                    <a class="text-white hover:text-white" href="{{ route('universal-electronic-service-center') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Prev</a>
          </button>
       </div>
       <!-- End Helper Buttons -->

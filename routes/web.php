@@ -35,6 +35,9 @@ Route::get('/coin-laundry-shop', function () {
 Route::get('/universal-electronic-service-center', function () {
     return view('universal-electronic-service-center');
 })->name('universal-electronic-service-center');
+Route::get('/pets-malu-animal-health-care-center', function () {
+    return view('pets-malu-animal-health-care-center');
+})->name('pets-malu-animal-health-care-center');
 Route::get('/products-list', function () {
     return view('products-list');
 })->name('products');

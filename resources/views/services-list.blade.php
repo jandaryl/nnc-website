@@ -51,7 +51,7 @@
                 </button>
             </div>
             <div class="h-auto w-1/3 bg-grey-lightest mr-12 mt-12 mb-12 rounded-lg shadow-lg flex flex-col items-center font-mono font-semibold text-1xl">
-                <img class="h-24 w-24 rounded-full mt-4" src="https://i.imgur.com/clby8dV.jpg" alt="On Call Maintenance and Repair Service Logo">
+                <img class="h-24 w-24 rounded-none mt-4" src="https://i.imgur.com/bceuc1W.jpg" alt="On Call Maintenance and Repair Service Logo">
                 <a class="p-8 mb-0 text-grey-darkest hover:underline text-lg" href="{{ route('on-call-maintenance-and-repair-service') }}">On Call Maintenance and Repair Service</a>
                 <button class="bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-8 w-18 rounded mb-4">
                     <a class="text-white hover:text-white" href="{{ route('on-call-maintenance-and-repair-service') }}"><i class="fas fa-eye fa-1x mr-2"></i>View</a>

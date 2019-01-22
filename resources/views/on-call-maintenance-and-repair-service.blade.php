@@ -44,7 +44,7 @@
     <!-- Start Service Info -->
       <div class="flex flex-col items-center container mx-auto h-auto w-auto bg-grey-lighter rounded-none shadow-md">
         <div class="inline-flex flex-row items-center h-auto w-auto ml-12 mr-12 mt-4 mb-12">
-          <img class="h-48 w-48 rounded-full shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/clby8dV.jpg" alt="On Call Maintenance and Repair Service Logo">
+          <img class="h-48 w-48 rounded-none shadow-lg ml-4 mr-8 mt-4 mb-4 " src="https://i.imgur.com/bceuc1W.jpg" alt="On Call Maintenance and Repair Service Logo">
           <div class="inline-flex flex-col h-auto w-auto">
               <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-4 mr-8 mt-8 mb-4 text-center font-mono font-medium text-3xl">
                 <p class="pt-2 pl-8 pr-8 pt-4 font-sans">On Call Maintenance and Repair Service</p>

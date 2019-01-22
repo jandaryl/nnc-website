@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Native Chicken Food Hall</title>
+    <title>Trendy Fashion Boutique</title>
     <link rel="icon" type="image/ico" href="https://i.imgur.com/clby8dV.jpg">
     <link rel="stylesheet" type="text/css" href="/css/tailwind.css">
     <link rel="stylesheet" type="text/css" href="/css/bulma.css">
@@ -44,29 +44,32 @@
     <!-- Start Product Info -->
     <div class="flex flex-col items-center container mx-auto h-auto w-64 bg-grey-lighter rounded-none shadow-md">
       <div class="inline-flex flex-row h-auto w-auto">
-          <img class="h-48 w-48 rounded-full mt-8 shadow-lg" src="https://i.imgur.com/OSM06cm.jpg" alt="Native Chicken Food Hall Logo">
+          <img class="h-48 w-48 rounded-none mt-8 shadow-lg" src="https://i.imgur.com/x87Op6B.jpg" alt="Trendy Fashion Boutique Logo">
           <div class="h-16 w-auto rounded-lg shadow-lg bg-white ml-8 mr-8 mt-24 mb-4 text-center font-mono font-medium text-3xl">
-            <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Native Chicken Food Hall</p>
+            <p class="pt-2 pl-8 pr-8 pt-4 font-sans">Trendy Fashion Boutique</p>
           </div>
       </div>
       <div class="inline-flex flex-row h-auto w-auto">
-        <div class="h-full w-1/2 mr-8 mt-8 mb-4 ml-8 rounded-lg shadow-lg">
+        <div class="h-full w-1/3 mr-8 mt-8 mb-4 ml-8 rounded-lg shadow-lg">
           <div class='carousel carousel-animated carousel-animate-slide' data-autoplay="true">
             <div class='carousel-container'>
               <div class='carousel-item has-background is-active'>
-                <img class="is-background" src="https://i.imgur.com/ReFhB6f.jpg" alt="Chicken" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/VKmPgRz.jpg" alt="Many Pants" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/INKzDq7.jpg" alt="Chicken A" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/UzVkxDc.jpg" alt="white clothes" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/ZU5Td4L.jpg" alt="Chicken B" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/T0uc15t.jpg" alt="double back" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/ehLnHcb.jpg" alt="Chicken C" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/6B3i7sy.jpg" alt="Jeans Pants" width="640" height="310" />
               </div>
               <div class='carousel-item has-background'>
-                <img class="is-background" src="https://i.imgur.com/ErP3C7A.jpg" alt="Chicken D" width="640" height="310" />
+                <img class="is-background" src="https://i.imgur.com/ah5GTvc.jpg" alt="Gowns" width="640" height="310" />
+              </div>
+              <div class='carousel-item has-background'>
+                <img class="is-background" src="https://i.imgur.com/Kvx4Uyn.jpg" alt="Jackets" width="640" height="310" />
               </div>
             </div>
             <div class="carousel-navigation is-centered">
@@ -82,20 +85,18 @@
         <div class="inline-flex flex-col h-auto w-auto mt-8">
             <div class="bg-white h-auto max-auto mr-8 text-center rounded-lg shadow-lg mb-8">
               <h1 class="text-2xl text-bold font-mono pt-4">Problem</h1>
-              <p class="text-md font-mono p-4 tracking-tight">As Filipino Begun to involve in other countries custom, the research wants to develop a kind of business where customers will find a Filipino menus and cultures; a food hall where they can eat according in the Filipino styles.
+              <p class="text-md font-mono p-4 tracking-tight">We are proposing this business because nowadays, people are conscious on what they wear, including the designs and styles of the clothes especially the millennials.
               </p>
             </div>
             <div class="bg-white h-auto max-auto text-center rounded-lg shadow-lg mb-8 mr-8">
               <h1 class="text-2xl text-bold font-mono pt-4">Objectives</h1>
-              <p class="text-md font-mono pl-4 pr-4 pt-4 tracking-tight text-left">1. Be effective and efficient superior customer service.
+              <p class="text-md font-mono pl-6 pr-4 pt-4 tracking-tight text-left">1. Establish a unique boutique in the City of Cadiz.
               </p>
-              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">2. Customer satisfaction and loyalty.
+              <p class="text-md font-mono pl-6 pr-4 tracking-tight text-left">2. Provide quality clothing and customer service at a reasonable price.
               </p>
-              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">3. Maintain great food selection.
+              <p class="text-md font-mono pl-6 pr-4 tracking-tight text-left">3. To provide millennial with unique and inexpensive clothing.
               </p>
-              <p class="text-md font-mono pl-4 pr-4 tracking-tight text-left">4. 10% discount will be applied to seniors to attract market.
-              </p>
-              <p class="text-md font-mono pl-4 pr-4 pb-4 tracking-tight text-left">5. Improved profitability.
+              <p class="text-md font-mono pl-6 pr-4 pb-4 tracking-tight text-left">4. Continually and consistently increase total number of customer per year.
               </p>
             </div>
       </div>
@@ -103,12 +104,12 @@
       <div class="inline-flex flex-row h-auto w-auto">
          <div class="bg-white h-auto max-w-lg mr-8 text-center rounded-lg shadow-lg mb-12 ml-8 mt-4">
               <h1 class="text-2xl text-bold font-mono">Mission</h1>
-              <p class="text-md font-mono p-4 tracking-tight">Native chicken food hall intend to deliver consistent taste and quality to our valued customer by using the native chicken and to serve good, safe food quickly with the local and nature Filipino eating customs It serves a Native Chicken menus behalf of millennial world.
+              <p class="text-md font-mono p-4 tracking-tight">Trendy Fashion Boutique exist with the mission to give every people the means to STYLE HER OWN LIFE to make shopping a pleasant, yet inexpensive experience for millennial, while providing their lives with a sense of confidence and beauty.
               </p>
          </div>
         <div class="bg-white h-auto max-w-lg text-center rounded-lg shadow-lg mb-12 mr-8 mt-4">
               <h1 class="text-2xl text-bold font-mono">Vision</h1>
-              <p class="text-md font-mono p-4 tracking-tight">Native chicken food hall will serve locally and globally and to make our food as an essential part of life. It peruses to remain the Filipino menus until it became as best Native Chicken hall in the country.
+              <p class="text-md font-mono p-4 tracking-tight">The Trendy Fashion Boutique as one of business entity envisioning to create a global brand that provides fashionable product at affordable prices to people, while achieving the goal of becoming the NUMBER ONE VALUE TRENDY FASHION BOUTIQUE across the city.
               </p>
         </div>
       </div>
@@ -125,10 +126,7 @@
      <!-- Start Helper Buttons -->
       <div class="flex flex-row justify-between container mx-auto h-auto w-auto">
          <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
-                    <a class="text-white hover:text-white" href="{{ route('universal-electronic-supply') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Prev</a>
-         </button>
-         <button class="mt-8 mb-8 bg-green hover:bg-green-dark text-white text-sm font-bold py-2 px-4 h-12 w-24 rounded mb-4">
-                    <a class="text-white hover:text-white" href="{{ route('trendy-fashion-boutique') }}"><i class="fas fa-arrow-right fa-1x mr-2"></i>Next</a>
+                    <a class="text-white hover:text-white" href="{{ route('native-chicken-food-hall') }}"><i class="fas fa-arrow-left fa-1x mr-2"></i>Prev</a>
          </button>
       </div>
       <!-- End Helper Buttons -->
